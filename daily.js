@@ -33,7 +33,7 @@ async function main() {
       permitData.permitHTML,
     );
 
-    const permit_report_pdf = permitPDF(
+    const permit_report_pdf = await permitPDF(
       permitData.permitData.permitReportAttachmentId,
     );
 
