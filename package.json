@@ -1,0 +1,16 @@
+{
+  "name": "ocfl.net",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Roger Rodrigues",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
