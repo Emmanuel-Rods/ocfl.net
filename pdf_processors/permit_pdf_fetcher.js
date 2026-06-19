@@ -59,7 +59,7 @@ async function downloadPdfFromForm(payload, outputPath) {
     // await fs.writeFile(outputPath, buffer);
     return buffer;
 
-    console.log(`✅ Success! PDF saved to: ${outputPath}`);
+    //console.log(`✅ Success! PDF saved to: ${outputPath}`);
   } catch (error) {
     console.error("❌ Failed to download the PDF:", error.message);
   }
