@@ -1,0 +1,1082 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25012732",
+      "applyDate": "06/16/25",
+      "name": "SFR- 10245 Trout Road",
+      "status": "Issued",
+      "issueDate": "12/01/25",
+      "expireDate": "12/19/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "New Construction",
+      "address": "10245 Trout Rd Orlando FL 32836",
+      "parcel": "32-23-28-1872-00-190",
+      "description": "Construct New Single Family Residence Please be advised that this permit limits clearing to the building pad including permanent power, driveway, on site disposal systems and 15 ft. around the building pad, per Orange County Code Sec. 15-304. Contact 407-836-5807 for questions regarding additional clearing. 5 trees are required to be planted on the site prior to the certificate of occupancy being issued.",
+      "mapLink": "https://maps.google.com?q=10245+Trout+Rd.+Orlando+FL+32836"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "Yes"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Robert Bieber"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "No"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "2"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "8920"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "1985"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "10905"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "7083"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": "5"
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "E26000340",
+      "appDate": "01/09/26",
+      "issueDate": "01/09/26",
+      "status": "Complete",
+      "folderId": "3423032"
+    },
+    {
+      "permitNumber": "E26000349",
+      "appDate": "01/09/26",
+      "issueDate": "01/09/26",
+      "status": "Issued",
+      "folderId": "3423062"
+    },
+    {
+      "permitNumber": "P26001951",
+      "appDate": "03/05/26",
+      "issueDate": "03/06/26",
+      "status": "Issued",
+      "folderId": "3441994"
+    },
+    {
+      "permitNumber": "T26002611",
+      "appDate": "03/13/26",
+      "issueDate": "03/16/26",
+      "status": "Issued",
+      "folderId": "3445335"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Lakeshore Lira Investments Corporation (Leonardo Castro Lira)",
+      "address": "8023 Canyon Lake Cir Orlando Florida 32835"
+    },
+    {
+      "type": "Contractor",
+      "name": "Lakeshore Lira Investments Corporation (Leonardo Castro Lira)",
+      "address": "8023 Canyon Lake Cir Orlando Florida 32835"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "10245 Trout Rd Orlando FL 32836",
+      "parcel": "32-23-28-1872-00-190"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "39377487",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "06/17/25",
+      "startDt": "06/17/25",
+      "endDt": "11/13/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378452",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/13/25",
+      "startDt": "11/20/25",
+      "endDt": "11/19/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378451",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/13/25",
+      "startDt": "11/20/25",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378453",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "11/13/25",
+      "startDt": "11/20/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378457",
+      "processName": "Health Review",
+      "status": "Approved",
+      "scheduleDt": "09/30/25",
+      "startDt": "10/07/25",
+      "endDt": "10/08/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378459",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "09/30/25",
+      "startDt": "10/07/25",
+      "endDt": "10/03/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378454",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "08/22/25",
+      "startDt": "08/29/25",
+      "endDt": "08/22/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378455",
+      "processName": "Utilities Review",
+      "status": "Approved",
+      "scheduleDt": "06/17/25",
+      "startDt": "07/01/25",
+      "endDt": "07/01/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378460",
+      "processName": "Architectural/Lighting Review",
+      "status": "Approved",
+      "scheduleDt": "11/13/25",
+      "startDt": "07/01/25",
+      "endDt": "07/01/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39378458",
+      "processName": "Concurrency Review",
+      "status": "Approved",
+      "scheduleDt": "06/17/25",
+      "startDt": "07/01/25",
+      "endDt": "06/19/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40377407",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "12/01/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40323963",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/19/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "39464591",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "07/01/25",
+      "startDt": "07/01/25",
+      "endDt": "07/02/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "39378456",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "06/17/25",
+      "startDt": "07/01/25",
+      "endDt": "06/18/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41504451",
+      "processName": "189 Exterior Frame",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "06/19/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41237159",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "05/14/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41181602",
+      "processName": "135 Elevation Cert",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/30/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41037963",
+      "processName": "120 Slab",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/10/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41538613",
+      "processName": "189 Exterior Frame",
+      "status": "Partial",
+      "scheduleDt": "06/19/26",
+      "startDt": "06/19/26",
+      "endDt": "06/19/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41516936",
+      "processName": "189 Exterior Frame",
+      "status": "Partial",
+      "scheduleDt": "06/17/26",
+      "startDt": "06/17/26",
+      "endDt": "06/17/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41500131",
+      "processName": "189 Exterior Frame",
+      "status": "Progress Check",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/15/26",
+      "endDt": "06/15/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41500132",
+      "processName": "189 Exterior Frame",
+      "status": "Failed",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/15/26",
+      "endDt": "06/15/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41306087",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Passed",
+      "scheduleDt": "05/14/26",
+      "startDt": "05/14/26",
+      "endDt": "05/14/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41298991",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Failed",
+      "scheduleDt": "05/13/26",
+      "startDt": "05/13/26",
+      "endDt": "05/13/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41280737",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Failed",
+      "scheduleDt": "05/11/26",
+      "startDt": "05/11/26",
+      "endDt": "05/11/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41224351",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Failed",
+      "scheduleDt": "05/01/26",
+      "startDt": "05/01/26",
+      "endDt": "05/01/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41218385",
+      "processName": "135 Elevation Cert",
+      "status": "Passed",
+      "scheduleDt": "04/30/26",
+      "startDt": "04/30/26",
+      "endDt": "04/30/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41176990",
+      "processName": "135 Elevation Cert",
+      "status": "Cancelled",
+      "scheduleDt": "04/24/26",
+      "startDt": "04/24/26",
+      "endDt": "04/23/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41097656",
+      "processName": "120 Slab",
+      "status": "Passed",
+      "scheduleDt": "04/10/26",
+      "startDt": "04/10/26",
+      "endDt": "04/10/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41087245",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41069855",
+      "processName": "120 Slab",
+      "status": "Progress Check",
+      "scheduleDt": "04/07/26",
+      "startDt": "04/07/26",
+      "endDt": "04/07/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41046737",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "04/02/26",
+      "startDt": "04/02/26",
+      "endDt": "04/02/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41030289",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "03/31/26",
+      "startDt": "03/31/26",
+      "endDt": "03/31/26"
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "39459130",
+      "processName": "Stormwater Hold",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40071704",
+      "processName": "Septic Permit Hold",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40572128",
+      "processName": "Final Power Call",
+      "status": "Open",
+      "scheduleDt": "01/22/26",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40378142",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40378141",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    }
+  ],
+  "permitReportAttachmentId": 15461329,
+  "inspections": [
+    {
+      "permitRef": "B25012732",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Bieber",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "06/19/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "06/15/26",
+          "user": "Robert Bieber",
+          "comment": "2893694-No inspection could be performed.",
+          "result": "Failed"
+        },
+        {
+          "date": "06/15/26",
+          "user": "Robert Bieber",
+          "comment": "2893694-See failed inspection 6-15-26.",
+          "result": "Progress Check"
+        },
+        {
+          "date": "06/17/26",
+          "user": "Robert Bieber",
+          "comment": "2895595-Roof sheathing only OK to cover per phone conversation with Guilherme, no strapping for walls done at this time.",
+          "result": "Partial"
+        },
+        {
+          "date": "06/19/26",
+          "user": "Robert Bieber",
+          "comment": "2898337-OK to tape seams for wall sheathing, 1 downpour needs to be poured, corner strapping missing at CMU to frame walls, and HTT5 straps missing at 2nd floor columns.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Bieber",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "05/14/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/01/26",
+          "user": "Robert Bieber",
+          "comment": "2861017-",
+          "result": "Failed"
+        },
+        {
+          "date": "05/11/26",
+          "user": "Robert Bieber",
+          "comment": "2868159-",
+          "result": "Failed"
+        },
+        {
+          "date": "05/13/26",
+          "user": "Robert Bieber",
+          "comment": "2870268-",
+          "result": "Failed"
+        },
+        {
+          "date": "05/14/26",
+          "user": "Robert Bieber",
+          "comment": "2870974-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Jennifer F Manibusan",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/30/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/23/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "2855107-",
+          "result": "Cancel"
+        },
+        {
+          "date": "04/30/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "2860268-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732",
+      "details": {
+        "type": "120 Slab",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Bieber",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/10/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "03/31/26",
+          "user": "Ricci Todd",
+          "comment": "2837134-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/02/26",
+          "user": "Joshua E Fitts",
+          "comment": "2839112-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/07/26",
+          "user": "Robert Bieber",
+          "comment": "2841657-Meet contractor on site most deficiencies are corrected except 1 footer pad see plans as marked.",
+          "result": "Progress Check"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Robert Bieber",
+          "comment": "2843716-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/10/26",
+          "user": "Robert Bieber",
+          "comment": "2845042-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2898337",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "06/19/26",
+        "scheduledEndDate": "",
+        "startDate": "06/19/26",
+        "endDate": "06/19/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "06/19/26",
+          "user": "Robert Bieber",
+          "comment": "OK to tape seams for wall sheathing, 1 downpour needs to be poured, corner strapping missing at CMU to frame walls, and HTT5 straps missing at 2nd floor columns.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2895595",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "06/17/26",
+        "scheduledEndDate": "",
+        "startDate": "06/17/26",
+        "endDate": "06/17/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "06/17/26",
+          "user": "Robert Bieber",
+          "comment": "Roof sheathing only OK to cover per phone conversation with Guilherme, no strapping for walls done at this time.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2893694",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Progress Check",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "06/15/26",
+        "scheduledEndDate": "",
+        "startDate": "06/15/26",
+        "endDate": "06/15/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "06/15/26",
+          "user": "Robert Bieber",
+          "comment": "See failed inspection 6-15-26.",
+          "result": "Progress Check"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2893694",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "06/15/26",
+        "scheduledEndDate": "",
+        "startDate": "06/15/26",
+        "endDate": "06/15/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "06/15/26",
+          "user": "Robert Bieber",
+          "comment": "No inspection could be performed.",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2870974",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/14/26",
+        "scheduledEndDate": "",
+        "startDate": "05/14/26",
+        "endDate": "05/14/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/14/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2870268",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/13/26",
+        "scheduledEndDate": "",
+        "startDate": "05/13/26",
+        "endDate": "05/13/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/13/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2868159",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/11/26",
+        "scheduledEndDate": "",
+        "startDate": "05/11/26",
+        "endDate": "05/11/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/11/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2861017",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/01/26",
+        "scheduledEndDate": "",
+        "startDate": "05/01/26",
+        "endDate": "05/01/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/01/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2860268",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/30/26",
+        "scheduledEndDate": "",
+        "startDate": "04/30/26",
+        "endDate": "04/30/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/30/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2855107",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "Cancelled",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/24/26",
+        "scheduledEndDate": "",
+        "startDate": "04/23/26",
+        "endDate": "04/23/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/23/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "",
+          "result": "Cancel"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2845042",
+      "details": {
+        "type": "120 Slab",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/10/26",
+        "scheduledEndDate": "",
+        "startDate": "04/10/26",
+        "endDate": "04/10/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/10/26",
+          "user": "Robert Bieber",
+          "comment": "This is a mono slab inspection.",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2843716",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2841657",
+      "details": {
+        "type": "120 Slab",
+        "status": "Progress Check",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/07/26",
+        "scheduledEndDate": "",
+        "startDate": "04/07/26",
+        "endDate": "04/07/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/07/26",
+          "user": "Robert Bieber",
+          "comment": "Meet contractor on site most deficiencies are corrected except 1 footer pad see plans as marked.",
+          "result": "Progress Check"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2839112",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/02/26",
+        "scheduledEndDate": "",
+        "startDate": "04/02/26",
+        "endDate": "04/02/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "04/02/26",
+          "user": "Joshua E Fitts",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25012732 | Reference #: 2837134",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/31/26",
+        "scheduledEndDate": "",
+        "startDate": "03/31/26",
+        "endDate": "03/31/26",
+        "address": "10245 Trout RD, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "03/31/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25012732",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "32-23-28-1872-00-190",
+    "tenant": "NONE",
+    "contractor": "Leonardo Castro Lira",
+    "contractorLicense": "CBC1265840",
+    "valueOfWork": "$1,700,000.00",
+    "squareFootage": "10905",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": null,
+    "windSpeed": null,
+    "natureOfWork": "addition",
+    "projectAddress": "10245 Trout Rd., Orlando, FL 32836",
+    "contractorAddress": "8023 Canyon Lake Cir., Orlando, FL 32835",
+    "issuedBy": null,
+    "owner": null,
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

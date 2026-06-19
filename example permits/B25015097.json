@@ -1,0 +1,1150 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25015097",
+      "applyDate": "07/23/25",
+      "name": "WATERLEIGH DR HORTON LOT 183",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "10/09/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "New Construction",
+      "address": "16840 Hobe Sound Ct Winter Garden FL 34787",
+      "parcel": "18-24-27-7514-01-830",
+      "description": "New SFR Construction - Waterleigh - Phase 5 - Lot 183 DOC# 339488",
+      "mapLink": "https://maps.google.com?q=16840+Hobe+Sound+Ct.+Winter+Garden+FL+34787"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "n/a no trusses"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Salvador Perez"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": "09-002"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": "05-030"
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "2"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "2511"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "257"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "2768"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "2027"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": "2"
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "P25012089",
+      "appDate": "12/16/25",
+      "issueDate": "12/16/25",
+      "status": "Complete",
+      "folderId": "3417213"
+    },
+    {
+      "permitNumber": "E25016721",
+      "appDate": "12/18/25",
+      "issueDate": "12/18/25",
+      "status": "Complete",
+      "folderId": "3418145"
+    },
+    {
+      "permitNumber": "T26001048",
+      "appDate": "01/30/26",
+      "issueDate": "01/30/26",
+      "status": "Complete",
+      "folderId": "3429832"
+    },
+    {
+      "permitNumber": "H26000956",
+      "appDate": "02/02/26",
+      "issueDate": "02/03/26",
+      "status": "Complete",
+      "folderId": "3430640"
+    },
+    {
+      "permitNumber": "P26002642",
+      "appDate": "03/25/26",
+      "issueDate": "03/26/26",
+      "status": "Complete",
+      "folderId": "3449345"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "D R Horton Inc (Joseph Neal Tucker Jr)",
+      "address": "10192 Dowden Rd Orlando Florida 32832"
+    },
+    {
+      "type": "Contractor",
+      "name": "D R Horton Inc (Joseph Neal Tucker Jr)",
+      "address": "10192 Dowden Rd Orlando Florida 32832"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "16840 Hobe Sound Ct Winter Garden FL 34787",
+      "parcel": "18-24-27-7514-01-830"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "39594499",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "07/24/25",
+      "startDt": "07/24/25",
+      "endDt": "07/24/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39594505",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "07/24/25",
+      "startDt": "08/07/25",
+      "endDt": "08/06/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39594504",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "07/24/25",
+      "startDt": "08/07/25",
+      "endDt": "08/06/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39594509",
+      "processName": "Architectural/Lighting Review",
+      "status": "Approved",
+      "scheduleDt": "07/24/25",
+      "startDt": "08/07/25",
+      "endDt": "08/06/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39594507",
+      "processName": "Concurrency Review",
+      "status": "Approved",
+      "scheduleDt": "07/24/25",
+      "startDt": "08/07/25",
+      "endDt": "07/28/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39594508",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "07/24/25",
+      "startDt": "08/07/25",
+      "endDt": "07/25/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "39695799",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "08/14/25",
+      "startDt": "",
+      "endDt": "08/14/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "39677649",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "08/12/25",
+      "startDt": "",
+      "endDt": "08/14/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "39673738",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "08/06/25",
+      "startDt": "08/07/25",
+      "endDt": "08/12/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "39594506",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "07/24/25",
+      "startDt": "08/07/25",
+      "endDt": "07/25/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41061687",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40772941",
+      "processName": "210 Insulation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/17/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40742718",
+      "processName": "190 Framing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/12/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40711291",
+      "processName": "188 Window Installation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40662139",
+      "processName": "189 Exterior Frame",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/29/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40561956",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/20/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40523404",
+      "processName": "130 Footing/Slab (Mono)",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/30/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41087108",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41052565",
+      "processName": "290 Final",
+      "status": "Failed",
+      "scheduleDt": "04/03/26",
+      "startDt": "04/03/26",
+      "endDt": "04/03/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40774766",
+      "processName": "210 Insulation",
+      "status": "Passed",
+      "scheduleDt": "02/17/26",
+      "startDt": "02/17/26",
+      "endDt": "02/17/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40765113",
+      "processName": "211 Lath",
+      "status": "Passed",
+      "scheduleDt": "02/16/26",
+      "startDt": "02/16/26",
+      "endDt": "02/16/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40765111",
+      "processName": "210 Insulation",
+      "status": "Failed",
+      "scheduleDt": "02/16/26",
+      "startDt": "02/16/26",
+      "endDt": "02/16/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40752450",
+      "processName": "190 Framing",
+      "status": "Passed",
+      "scheduleDt": "02/12/26",
+      "startDt": "02/12/26",
+      "endDt": "02/12/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40752449",
+      "processName": "190 Framing",
+      "status": "Passed",
+      "scheduleDt": "02/12/26",
+      "startDt": "02/12/26",
+      "endDt": "02/12/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40734346",
+      "processName": "190 Framing",
+      "status": "Progress Check",
+      "scheduleDt": "02/10/26",
+      "startDt": "02/10/26",
+      "endDt": "02/10/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40734345",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "02/10/26",
+      "startDt": "02/10/26",
+      "endDt": "02/10/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40704508",
+      "processName": "188 Window Installation",
+      "status": "Passed",
+      "scheduleDt": "02/04/26",
+      "startDt": "02/04/26",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40670205",
+      "processName": "189 Exterior Frame",
+      "status": "Passed",
+      "scheduleDt": "01/29/26",
+      "startDt": "01/29/26",
+      "endDt": "01/29/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40656287",
+      "processName": "189 Exterior Frame",
+      "status": "Failed",
+      "scheduleDt": "01/27/26",
+      "startDt": "01/27/26",
+      "endDt": "01/27/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40616182",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Passed",
+      "scheduleDt": "01/20/26",
+      "startDt": "01/20/26",
+      "endDt": "01/20/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40565481",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Passed",
+      "scheduleDt": "01/09/26",
+      "startDt": "01/09/26",
+      "endDt": "01/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40557191",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Failed",
+      "scheduleDt": "01/08/26",
+      "startDt": "01/08/26",
+      "endDt": "01/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40519945",
+      "processName": "130 Footing/Slab (Mono)",
+      "status": "Passed",
+      "scheduleDt": "12/30/25",
+      "startDt": "12/30/25",
+      "endDt": "12/30/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40379242",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40379243",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "41105088",
+      "processName": "Cert. of Occupancy",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/10/26"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40485363",
+      "processName": "Final Power Call",
+      "status": "Complete",
+      "scheduleDt": "03/18/26",
+      "startDt": "",
+      "endDt": "04/09/26"
+    }
+  ],
+  "permitReportAttachmentId": 15462164,
+  "inspections": [
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Ricci Todd",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/09/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/03/26",
+          "user": "Ricci Todd",
+          "comment": "2839765-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Ricci Todd",
+          "comment": "2843685-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "210 Insulation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Salvador Perez",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/17/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/16/26",
+          "user": "Salvador Perez",
+          "comment": "2805146-",
+          "result": "Failed"
+        },
+        {
+          "date": "02/17/26",
+          "user": "Salvador Perez",
+          "comment": "2806208-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "190 Framing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Salvador Perez",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/12/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/10/26",
+          "user": "Brian Dowling",
+          "comment": "2801269-",
+          "result": "Failed"
+        },
+        {
+          "date": "02/10/26",
+          "user": "Brian Dowling",
+          "comment": "2801269-SEE FAIL THIS DATE",
+          "result": "Progress Check"
+        },
+        {
+          "date": "02/12/26",
+          "user": "Salvador Perez",
+          "comment": "2803486-",
+          "result": "Passed"
+        },
+        {
+          "date": "02/12/26",
+          "user": "Salvador Perez",
+          "comment": "2803486-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Farmer",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/04/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Robert Farmer",
+          "comment": "2797823-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Salvador Perez",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/29/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/27/26",
+          "user": "Salvador Perez",
+          "comment": "2791862-",
+          "result": "Failed"
+        },
+        {
+          "date": "01/29/26",
+          "user": "Salvador Perez",
+          "comment": "2793519-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Michael Close",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/20/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/08/26",
+          "user": "Salvador Perez",
+          "comment": "2779567-",
+          "result": "Failed"
+        },
+        {
+          "date": "01/09/26",
+          "user": "Salvador Perez",
+          "comment": "2780598-",
+          "result": "Passed"
+        },
+        {
+          "date": "01/20/26",
+          "user": "Michael Close",
+          "comment": "2786870-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097",
+      "details": {
+        "type": "130 Footing/Slab (Mono)",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Ricci Todd",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/30/25",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/30/25",
+          "user": "Ricci Todd",
+          "comment": "2775235-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2843685",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2839765",
+      "details": {
+        "type": "290 Final",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/03/26",
+        "scheduledEndDate": "",
+        "startDate": "04/03/26",
+        "endDate": "04/03/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/03/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2806208",
+      "details": {
+        "type": "210 Insulation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/17/26",
+        "scheduledEndDate": "",
+        "startDate": "02/17/26",
+        "endDate": "02/17/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/17/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2805148",
+      "details": {
+        "type": "211 Lath",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/16/26",
+        "scheduledEndDate": "",
+        "startDate": "02/16/26",
+        "endDate": "02/16/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/16/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2805146",
+      "details": {
+        "type": "210 Insulation",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/16/26",
+        "scheduledEndDate": "",
+        "startDate": "02/16/26",
+        "endDate": "02/16/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/16/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2803486",
+      "details": {
+        "type": "190 Framing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/12/26",
+        "scheduledEndDate": "",
+        "startDate": "02/12/26",
+        "endDate": "02/12/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/12/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2803486",
+      "details": {
+        "type": "190 Framing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/12/26",
+        "scheduledEndDate": "",
+        "startDate": "02/12/26",
+        "endDate": "02/12/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/12/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2801269",
+      "details": {
+        "type": "190 Framing",
+        "status": "Progress Check",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/10/26",
+        "scheduledEndDate": "",
+        "startDate": "02/10/26",
+        "endDate": "02/10/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/10/26",
+          "user": "Brian Dowling",
+          "comment": "SEE FAIL THIS DATE",
+          "result": "Progress Check"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2801269",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/10/26",
+        "scheduledEndDate": "",
+        "startDate": "02/10/26",
+        "endDate": "02/10/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/10/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2797823",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/04/26",
+        "scheduledEndDate": "",
+        "startDate": "02/04/26",
+        "endDate": "02/04/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Robert Farmer",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2793519",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/29/26",
+        "scheduledEndDate": "",
+        "startDate": "01/29/26",
+        "endDate": "01/29/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/29/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2791862",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/27/26",
+        "scheduledEndDate": "",
+        "startDate": "01/27/26",
+        "endDate": "01/27/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/27/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2786870",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/20/26",
+        "scheduledEndDate": "",
+        "startDate": "01/20/26",
+        "endDate": "01/20/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/20/26",
+          "user": "Michael Close",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2780598",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/09/26",
+        "scheduledEndDate": "",
+        "startDate": "01/09/26",
+        "endDate": "01/09/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/09/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2779567",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/08/26",
+        "scheduledEndDate": "",
+        "startDate": "01/08/26",
+        "endDate": "01/08/26",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/08/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25015097 | Reference #: 2775235",
+      "details": {
+        "type": "130 Footing/Slab (Mono)",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/30/25",
+        "scheduledEndDate": "",
+        "startDate": "12/30/25",
+        "endDate": "12/30/25",
+        "address": "16840 Hobe Sound CT, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/30/25",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25015097",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "18-24-27-7514-01-830",
+    "tenant": "NONE",
+    "contractor": "Joseph Neal Tucker JR",
+    "contractorLicense": "CBC1258559",
+    "valueOfWork": "$253,590.00",
+    "squareFootage": "2768",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "16840 Hobe Sound Ct., Winter Garden, FL 34787",
+    "contractorAddress": "10192 Dowden Rd., Orlando, FL 32832",
+    "issuedBy": null,
+    "owner": null,
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

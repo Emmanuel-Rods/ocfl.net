@@ -1,0 +1,883 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25018967",
+      "applyDate": "09/19/25",
+      "name": "Addition- WINDMILL POINTE",
+      "status": "Issued",
+      "issueDate": "12/01/25",
+      "expireDate": "10/31/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "Addition",
+      "address": "10751 Wharton Ct Orlando FL 32821",
+      "parcel": "07-24-29-9359-02-380",
+      "description": "ADDITION OF 200 SQFT OF LIVING SPACE IN THE BACKYARD",
+      "mapLink": "https://maps.google.com?q=10751+Wharton+Ct.+Orlando+FL+32821"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Aaron Anderson"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "3"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "247"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "247"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "247"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": ""
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "E26000303",
+      "appDate": "01/09/26",
+      "issueDate": "01/09/26",
+      "status": "Issued",
+      "folderId": "3422835"
+    },
+    {
+      "permitNumber": "T26003021",
+      "appDate": "03/24/26",
+      "issueDate": "03/25/26",
+      "status": "Complete",
+      "folderId": "3449009"
+    },
+    {
+      "permitNumber": "H26004514",
+      "appDate": "05/07/26",
+      "issueDate": "05/08/26",
+      "status": "Issued",
+      "folderId": "3466534"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Mint Builders LLC (Joseph Celello)",
+      "address": "5332 SW 11th St Florida 33317"
+    },
+    {
+      "type": "Contractor",
+      "name": "Mint Builders LLC (Joseph Celello)",
+      "address": "5332 SW 11th St Florida 33317"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "10751 Wharton Ct Orlando FL 32821",
+      "parcel": "07-24-29-9359-02-380"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "39998517",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "09/26/25",
+      "startDt": "09/26/25",
+      "endDt": "11/20/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40003014",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "03/05/26",
+      "startDt": "03/09/26",
+      "endDt": "03/09/26"
+    },
+    {
+      "group": "Review",
+      "processKey": "40003018",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "03/05/26",
+      "startDt": "03/09/26",
+      "endDt": "03/06/26"
+    },
+    {
+      "group": "Review",
+      "processKey": "40003015",
+      "processName": "Building Review (RES)",
+      "status": "Deficiencies",
+      "scheduleDt": "03/05/26",
+      "startDt": "03/09/26",
+      "endDt": "03/06/26"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40373729",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "02/03/26",
+      "startDt": "02/03/26",
+      "endDt": "02/03/26"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40349167",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "02/03/26",
+      "startDt": "02/03/26",
+      "endDt": "02/03/26"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40003017",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/20/25",
+      "startDt": "11/24/25",
+      "endDt": "11/24/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40003016",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "09/29/25",
+      "startDt": "10/03/25",
+      "endDt": "09/29/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41397293",
+      "processName": "190 Framing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "05/28/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41220503",
+      "processName": "188 Window Installation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/30/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40999526",
+      "processName": "189 Exterior Frame",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/25/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40766294",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/10/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40549605",
+      "processName": "120 Slab",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41535514",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Open",
+      "scheduleDt": "06/22/26",
+      "startDt": "06/22/26",
+      "endDt": ""
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41535522",
+      "processName": "190 Framing",
+      "status": "Open",
+      "scheduleDt": "06/22/26",
+      "startDt": "06/22/26",
+      "endDt": ""
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41386293",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "05/28/26",
+      "startDt": "05/28/26",
+      "endDt": "05/28/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41195036",
+      "processName": "211 Lath",
+      "status": "Passed",
+      "scheduleDt": "04/30/26",
+      "startDt": "04/30/26",
+      "endDt": "04/30/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41195030",
+      "processName": "188 Window Installation",
+      "status": "Passed",
+      "scheduleDt": "04/30/26",
+      "startDt": "04/30/26",
+      "endDt": "04/30/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40983635",
+      "processName": "189 Exterior Frame",
+      "status": "Passed",
+      "scheduleDt": "03/25/26",
+      "startDt": "03/25/26",
+      "endDt": "03/25/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40899128",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Partial",
+      "scheduleDt": "03/10/26",
+      "startDt": "03/10/26",
+      "endDt": "03/10/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40748972",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Failed",
+      "scheduleDt": "02/13/26",
+      "startDt": "02/13/26",
+      "endDt": "02/13/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40701296",
+      "processName": "120 Slab",
+      "status": "Passed",
+      "scheduleDt": "02/04/26",
+      "startDt": "02/04/26",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40672702",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "01/29/26",
+      "startDt": "01/29/26",
+      "endDt": "01/29/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40623811",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "01/22/26",
+      "startDt": "01/22/26",
+      "endDt": "01/22/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40542855",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "01/06/26",
+      "startDt": "01/06/26",
+      "endDt": "01/06/26"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40374044",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40374045",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    }
+  ],
+  "permitReportAttachmentId": 15457826,
+  "inspections": [
+    {
+      "permitRef": "B25018967",
+      "details": {
+        "type": "190 Framing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Aaron Anderson",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "05/28/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "05/28/26",
+          "user": "Aaron Anderson",
+          "comment": "2880369-",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Aaron Anderson",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/30/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "04/30/26",
+          "user": "Aaron Anderson",
+          "comment": "2857347-Pending refastening slider",
+          "result": "Pass w/comments"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Aaron Anderson",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "03/25/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "03/25/26",
+          "user": "Aaron Anderson",
+          "comment": "2831084-Pending lintel is called in with repairs. Spoke with super on site. Must be done by framing inspection.",
+          "result": "Pass w/comments"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Salvador Zarate",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "03/10/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "02/13/26",
+          "user": "Salvador Zarate",
+          "comment": "2803028-",
+          "result": "Failed"
+        },
+        {
+          "date": "03/10/26",
+          "user": "Salvador Zarate",
+          "comment": "2820960-",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967",
+      "details": {
+        "type": "120 Slab",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Aaron Anderson",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/04/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "01/06/26",
+          "user": "Stephen Nagy Jr",
+          "comment": "2777761-",
+          "result": "Failed"
+        },
+        {
+          "date": "01/22/26",
+          "user": "Michael Close",
+          "comment": "2787975-",
+          "result": "Failed"
+        },
+        {
+          "date": "01/29/26",
+          "user": "Joshua E Fitts",
+          "comment": "2793946-",
+          "result": "Fail/No Fee"
+        },
+        {
+          "date": "02/04/26",
+          "user": "Aaron Anderson",
+          "comment": "2797430-",
+          "result": "Passed"
+        },
+        {
+          "date": "02/04/26",
+          "user": "Aaron Anderson",
+          "comment": "2797430-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2897898",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Open",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "06/22/26",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": []
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2897904",
+      "details": {
+        "type": "190 Framing",
+        "status": "Open",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "06/22/26",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": []
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2880369",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/28/26",
+        "scheduledEndDate": "",
+        "startDate": "05/28/26",
+        "endDate": "05/28/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "05/28/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2857350",
+      "details": {
+        "type": "211 Lath",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/30/26",
+        "scheduledEndDate": "",
+        "startDate": "04/30/26",
+        "endDate": "04/30/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "04/30/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2857347",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/30/26",
+        "scheduledEndDate": "",
+        "startDate": "04/30/26",
+        "endDate": "04/30/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "04/30/26",
+          "user": "Aaron Anderson",
+          "comment": "Pending refastening slider",
+          "result": "Pass w/comments"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2831084",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/25/26",
+        "scheduledEndDate": "",
+        "startDate": "03/25/26",
+        "endDate": "03/25/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "03/25/26",
+          "user": "Aaron Anderson",
+          "comment": "Pending lintel is called in with repairs. Spoke with super on site. Must be done by framing inspection.",
+          "result": "Pass w/comments"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2820960",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/10/26",
+        "scheduledEndDate": "",
+        "startDate": "03/10/26",
+        "endDate": "03/10/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "03/10/26",
+          "user": "Salvador Zarate",
+          "comment": "",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2803028",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/13/26",
+        "scheduledEndDate": "",
+        "startDate": "02/13/26",
+        "endDate": "02/13/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "02/13/26",
+          "user": "Salvador Zarate",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2797430",
+      "details": {
+        "type": "120 Slab",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/04/26",
+        "scheduledEndDate": "",
+        "startDate": "02/04/26",
+        "endDate": "02/04/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Passed"
+        },
+        {
+          "date": "02/04/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2793946",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/29/26",
+        "scheduledEndDate": "",
+        "startDate": "01/29/26",
+        "endDate": "01/29/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "01/29/26",
+          "user": "Joshua E Fitts",
+          "comment": "",
+          "result": "Fail/No Fee"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2787975",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/22/26",
+        "scheduledEndDate": "",
+        "startDate": "01/22/26",
+        "endDate": "01/22/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "01/22/26",
+          "user": "Michael Close",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018967 | Reference #: 2777761",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/06/26",
+        "scheduledEndDate": "",
+        "startDate": "01/06/26",
+        "endDate": "01/06/26",
+        "address": "10751 Wharton CT, Orlando, FL 32821"
+      },
+      "activity": [
+        {
+          "date": "01/06/26",
+          "user": "Stephen Nagy Jr",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25018967",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "07-24-29-9359-02-380",
+    "tenant": "NONE",
+    "contractor": "Joseph Celello",
+    "contractorLicense": "CGC1533843",
+    "valueOfWork": "$36,000.00",
+    "squareFootage": "247",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "10751 Wharton Ct., Orlando, FL 32821",
+    "contractorAddress": "5332 SW. 11th St., Plantation, FL 33317",
+    "issuedBy": "Carlos Vega",
+    "owner": "XAYCHALEUNE AMY TSENG",
+    "specialConsiderations": "ADDITION OF 200 SQFT OF LIVING SPACE IN THE BACKYARD",
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

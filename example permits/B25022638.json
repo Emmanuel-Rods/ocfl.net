@@ -1,0 +1,378 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25022638",
+      "applyDate": "11/12/25",
+      "name": "Addition- ORLANDO IMPROVEMENT CO NO 3",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "06/03/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "Addition",
+      "address": "1025 Hardwick Ave Orlando FL 32825",
+      "parcel": "20-22-31-6352-07-061",
+      "description": "ERECT ADD TO EXIST SFR AS BATH,BEDROOM,STUDY,LAUNDRY ROOM AND GARAGE We added onto house more than 20 years ago but appears we don't have a final there we need a final inspection. This permit will replace B00010805 for Finial Inspection On the original permit these are inspection recorded. 110 Footing Passed 180 Tilt Panel Passed 150 Lintel/Tie beam Passed 190 Framing Passed 120 Slab Passed 210 Insulation Passed",
+      "mapLink": "https://maps.google.com?q=1025+Hardwick+Ave.+Orlando+FL+32825"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "Yes"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Dennis Bruce"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "2"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": ""
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": ""
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "E25015062",
+      "appDate": "11/12/25",
+      "issueDate": "12/02/25",
+      "status": "Complete",
+      "folderId": "3406269"
+    },
+    {
+      "permitNumber": "P25011115",
+      "appDate": "11/12/25",
+      "issueDate": "12/02/25",
+      "status": "Complete",
+      "folderId": "3406268"
+    },
+    {
+      "permitNumber": "H25011522",
+      "appDate": "11/12/25",
+      "issueDate": "12/02/25",
+      "status": "Complete",
+      "folderId": "3406154"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Owner (Stacey King)",
+      "address": "1025 Hardwick Ave Orlando Florida 32825"
+    },
+    {
+      "type": "Contractor",
+      "name": "KING HAMISH",
+      "address": "1025 HARDWICK AVE"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "1025 Hardwick Ave Orlando FL 32825",
+      "parcel": "20-22-31-6352-07-061"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "40310388",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/17/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40310426",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/21/25",
+      "endDt": "11/21/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40377232",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "12/01/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40353492",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/24/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40342716",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/21/25",
+      "startDt": "11/21/25",
+      "endDt": "11/24/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40396428",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/03/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40383236",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "12/03/25",
+      "startDt": "12/03/25",
+      "endDt": "12/03/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40379238",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40379239",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40396427",
+      "processName": "Certificate of Completion",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/03/25"
+    }
+  ],
+  "permitReportAttachmentId": 15462152,
+  "inspections": [
+    {
+      "permitRef": "B25022638",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Dennis Bruce",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/03/25",
+        "address": "1025 Hardwick AVE, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/03/25",
+          "user": "Dennis Bruce",
+          "comment": "2757998-Reference T24008314 for roof",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25022638 | Reference #: 2757998",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/03/25",
+        "scheduledEndDate": "",
+        "startDate": "12/03/25",
+        "endDate": "12/03/25",
+        "address": "1025 Hardwick AVE, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/03/25",
+          "user": "Dennis Bruce",
+          "comment": "Reference T24008314 for roof",
+          "result": "Passed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25022638",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "20-22-31-6352-07-061",
+    "tenant": "NONE",
+    "contractor": "KING HAMISH",
+    "contractorLicense": null,
+    "valueOfWork": "$2,000.00",
+    "squareFootage": "N/A",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "1025 Hardwick Ave., Orlando, FL 32825",
+    "contractorAddress": "1025 HARDWICK AVE, ORLANDO, FL 32825",
+    "issuedBy": null,
+    "owner": null,
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

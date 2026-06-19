@@ -1,0 +1,475 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25019906",
+      "applyDate": "10/03/25",
+      "name": "Summer Kitchen- PARKVIEW RESERVE PHASE 1,MUNGER WILLIS R LAND CO",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "11/29/26",
+      "type": "Residential Permit",
+      "subType": "Non-census",
+      "workType": "New Construction",
+      "address": "10382 Park Estates Ave Orlando FL 32836",
+      "parcel": "15-24-28-6656-00-720",
+      "description": "Summer Kitchen in a existing Paver patio installation",
+      "mapLink": "https://maps.google.com?q=10382+Park+Estates+Ave.+Orlando+FL+32836"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Robert Bieber"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": "09-005"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": "05-023"
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": "Compliant"
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": ""
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": ""
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "P25011738",
+      "appDate": "12/05/25",
+      "issueDate": "12/05/25",
+      "status": "Complete",
+      "folderId": "3413532"
+    },
+    {
+      "permitNumber": "E26006883",
+      "appDate": "05/18/26",
+      "issueDate": "05/18/26",
+      "status": "Complete",
+      "folderId": "3470122"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Fabian Boykin LLC (Fabian Javion Boykin)",
+      "address": "7130 Altis Way Unit 11217 Orlando Florida 32836"
+    },
+    {
+      "type": "Contractor",
+      "name": "Fabian Boykin LLC (Fabian Javion Boykin)",
+      "address": "7130 Altis Way Unit 11217 Orlando Florida 32836"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "10382 Park Estates Ave Orlando FL 32836",
+      "parcel": "15-24-28-6656-00-720"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "40070954",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "10/08/25",
+      "startDt": "10/08/25",
+      "endDt": "10/31/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40070987",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "10/31/25",
+      "startDt": "11/04/25",
+      "endDt": "11/03/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40070986",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "10/08/25",
+      "startDt": "10/14/25",
+      "endDt": "10/14/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40239148",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/04/25",
+      "startDt": "",
+      "endDt": "11/04/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40224572",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/03/25",
+      "startDt": "",
+      "endDt": "11/04/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41251712",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "05/29/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40609076",
+      "processName": "190 Framing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/16/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41388310",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "05/29/26",
+      "startDt": "05/29/26",
+      "endDt": "05/29/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41240881",
+      "processName": "290 Final",
+      "status": "Partial",
+      "scheduleDt": "05/05/26",
+      "startDt": "05/05/26",
+      "endDt": "05/05/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40597087",
+      "processName": "190 Framing",
+      "status": "Passed",
+      "scheduleDt": "01/16/26",
+      "startDt": "01/16/26",
+      "endDt": "01/16/26"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40377648",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40377649",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "41403298",
+      "processName": "Certificate of Completion",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "05/29/26"
+    }
+  ],
+  "permitReportAttachmentId": 15460801,
+  "inspections": [
+    {
+      "permitRef": "B25019906",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Bieber",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "05/29/26",
+        "address": "10382 Park Estates AVE, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/05/26",
+          "user": "Robert Bieber",
+          "comment": "2863001-All work is complete, there is a required electrical permit that is not pulled or complete at this time. It appears no electrical work was done as an extension cord is being used for refrigerator.",
+          "result": "Partial"
+        },
+        {
+          "date": "05/29/26",
+          "user": "Robert Bieber",
+          "comment": "2880649-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019906",
+      "details": {
+        "type": "190 Framing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Aaron Anderson",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/16/26",
+        "address": "10382 Park Estates AVE, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "01/16/26",
+          "user": "Aaron Anderson",
+          "comment": "2784563-Pending trades",
+          "result": "Pass w/comments"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019906 | Reference #: 2880649",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/29/26",
+        "scheduledEndDate": "",
+        "startDate": "05/29/26",
+        "endDate": "05/29/26",
+        "address": "10382 Park Estates AVE, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/29/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019906 | Reference #: 2863001",
+      "details": {
+        "type": "290 Final",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "05/05/26",
+        "scheduledEndDate": "",
+        "startDate": "05/05/26",
+        "endDate": "05/05/26",
+        "address": "10382 Park Estates AVE, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "05/05/26",
+          "user": "Robert Bieber",
+          "comment": "All work is complete, there is a required electrical permit that is not pulled or complete at this time. It appears no electrical work was done as an extension cord is being used for refrigerator.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019906 | Reference #: 2784563",
+      "details": {
+        "type": "190 Framing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/16/26",
+        "scheduledEndDate": "",
+        "startDate": "01/16/26",
+        "endDate": "01/16/26",
+        "address": "10382 Park Estates AVE, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "01/16/26",
+          "user": "Aaron Anderson",
+          "comment": "Pending trades",
+          "result": "Pass w/comments"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25019906",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "15-24-28-6656-00-720",
+    "tenant": "NONE",
+    "contractor": "Fabian Javion Boykin",
+    "contractorLicense": "CBC1263895",
+    "valueOfWork": "$15,000.00",
+    "squareFootage": "N/A",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "I",
+    "windSpeed": "129",
+    "natureOfWork": "addition",
+    "projectAddress": "10382 Park Estates Ave., Orlando, FL 32836",
+    "contractorAddress": "7130 Altis Way., Unit 11217, Orlando, FL 32836",
+    "issuedBy": null,
+    "owner": null,
+    "specialConsiderations": "Summer Kitchen in a existing Paver patio installation",
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

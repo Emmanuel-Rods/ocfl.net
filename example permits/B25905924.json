@@ -1,0 +1,497 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25905924",
+      "applyDate": "10/14/25",
+      "name": "HB423 Waiver 1516 McCoy Rd.",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "06/09/26",
+      "type": "Commercial Permit",
+      "subType": "Non-census",
+      "workType": "New Construction",
+      "address": "1516 Mccoy Rd Orlando FL 32809",
+      "parcel": "36-23-29-0764-01-121",
+      "description": "Exterior fence 8' tall vinyl in rear yard",
+      "mapLink": "https://maps.google.com?q=1516+Mccoy+Rd.+Orlando+FL+32809"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "n/a no trusses"
+    },
+    {
+      "group": "Application Info",
+      "description": "Tree Removal(s)?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Who is performing the work?",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Does this development have 50 units or less?",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Carl Smith"
+    },
+    {
+      "group": "Dev Eng Info",
+      "description": "PW Inspections Required?",
+      "information": "No"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "3"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Number",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Expiry Date",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Type",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Issuing Bank",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Amount",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "LOC Extension Date",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Maintained By:",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "Maintenance Guarantee Required",
+      "information": ""
+    },
+    {
+      "group": "Maintenance Guarantee",
+      "description": "MG Owner",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "0"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "0"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "0"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "0"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Tenant Space SF",
+      "information": "0"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "0"
+    },
+    {
+      "group": "Utilities Info",
+      "description": "WM Pressure Pipe Inspection",
+      "information": "No"
+    },
+    {
+      "group": "Utilities Info",
+      "description": "FM Pressure Pipe Inspection",
+      "information": "No"
+    },
+    {
+      "group": "Utilities Info",
+      "description": "Gravity Infrastructure Inspection",
+      "information": "No"
+    },
+    {
+      "group": "Utilities Info",
+      "description": "RW Pressure Pipe Inspection",
+      "information": "No"
+    }
+  ],
+  "sub_permits": [],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Top Builder Construction and Developments LLC (David A Torres)",
+      "address": "533 E HIghland St Florida 32701"
+    },
+    {
+      "type": "Contractor",
+      "name": "Top Builder Construction and Developments LLC (David A Torres)",
+      "address": "533 E HIghland St Florida 32701"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "1516 Mccoy Rd Orlando FL 32809",
+      "parcel": "36-23-29-0764-01-121"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Review",
+      "processKey": "40113351",
+      "processName": "Utilities Review",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/20/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113352",
+      "processName": "Health Review",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/20/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113350",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/14/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113355",
+      "processName": "Fire Review",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/12/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113348",
+      "processName": "Building Review (COM)",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/10/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113354",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/07/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113349",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/06/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40226021",
+      "processName": "EPD - Wetland/Surface Water",
+      "status": "Approved",
+      "scheduleDt": "11/03/25",
+      "startDt": "11/05/25",
+      "endDt": "11/05/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113356",
+      "processName": "Landscaping Review",
+      "status": "Approved",
+      "scheduleDt": "10/15/25",
+      "startDt": "11/05/25",
+      "endDt": "11/05/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40113353",
+      "processName": "Transportation Planning Review",
+      "status": "Approved",
+      "scheduleDt": "10/15/25",
+      "startDt": "11/05/25",
+      "endDt": "11/04/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40374796",
+      "processName": "Final Issuance Review",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40365383",
+      "processName": "Final Plan Preparation",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40245322",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/06/25",
+      "startDt": "11/20/25",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40236114",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "11/04/25",
+      "startDt": "",
+      "endDt": "11/20/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40427164",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/09/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40418409",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "12/09/25",
+      "startDt": "12/09/25",
+      "endDt": "12/09/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40378755",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40378754",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40427163",
+      "processName": "Certificate of Completion",
+      "status": "Complete",
+      "scheduleDt": "12/09/25",
+      "startDt": "",
+      "endDt": "12/09/25"
+    }
+  ],
+  "permitReportAttachmentId": 15461792,
+  "inspections": [
+    {
+      "permitRef": "B25905924",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Jesus A Gutierrez",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/09/25",
+        "address": "1516 Mccoy RD, Orlando, FL 32809"
+      },
+      "activity": [
+        {
+          "date": "12/09/25",
+          "user": "Jesus A Gutierrez",
+          "comment": "2762316-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25905924 | Reference #: 2762316",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/09/25",
+        "scheduledEndDate": "",
+        "startDate": "12/09/25",
+        "endDate": "12/09/25",
+        "address": "1516 Mccoy RD, Orlando, FL 32809"
+      },
+      "activity": [
+        {
+          "date": "12/09/25",
+          "user": "Jesus A Gutierrez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25905924",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "36-23-29-0764-01-121",
+    "tenant": "NONE",
+    "contractor": "David A Torres",
+    "contractorLicense": "CGC1534162",
+    "valueOfWork": "$9,659.00",
+    "squareFootage": "0",
+    "zoningDistrict": null,
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "1516 Mccoy Rd., Orlando, FL 32809",
+    "contractorAddress": "533 E. HIghland St., Altamonte Springs, FL 32701",
+    "issuedBy": "II",
+    "owner": "139",
+    "specialConsiderations": null,
+    "useAndOccupancyType": null,
+    "buildingCode": null
+  }
+}

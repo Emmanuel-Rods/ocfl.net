@@ -1,0 +1,611 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25018327",
+      "applyDate": "09/10/25",
+      "name": "Pool- DEERWOOD UT 2",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "08/20/26",
+      "type": "Residential Permit",
+      "subType": "Outdoor Pool",
+      "workType": "Addition",
+      "address": "9219 Buttonwood St Orlando FL 32825",
+      "parcel": "31-22-31-1990-00-320",
+      "description": "new pool",
+      "mapLink": "https://maps.google.com?q=9219+Buttonwood+St.+Orlando+FL+32825"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "n/a no trusses"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Dennis Bruce"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "2"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": ""
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "Yes"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": ""
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "P25011684",
+      "appDate": "12/03/25",
+      "issueDate": "12/04/25",
+      "status": "Complete",
+      "folderId": "3412940"
+    },
+    {
+      "permitNumber": "E25016018",
+      "appDate": "12/03/25",
+      "issueDate": "12/04/25",
+      "status": "Complete",
+      "folderId": "3412939"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Shelby Martinez",
+      "address": "9219 Buttonwood St Orlando Florida 32825"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "9219 Buttonwood St Orlando FL 32825",
+      "parcel": "31-22-31-1990-00-320"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "39945448",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "09/18/25",
+      "startDt": "09/18/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39945621",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/19/25",
+      "endDt": "11/19/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39945622",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/19/25",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39945625",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "09/18/25",
+      "startDt": "09/24/25",
+      "endDt": "09/23/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39945624",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "09/18/25",
+      "startDt": "09/24/25",
+      "endDt": "09/22/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "39945623",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "09/18/25",
+      "startDt": "09/24/25",
+      "endDt": "09/19/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40377159",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "12/01/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40325873",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/19/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40808343",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/20/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40667003",
+      "processName": "260 Pool Barrier/Safety Device",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/28/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40591936",
+      "processName": "120 Slab",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/14/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40433695",
+      "processName": "350 Pool Steel & Ground",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/11/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40784459",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "02/20/26",
+      "startDt": "02/20/26",
+      "endDt": "02/20/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40657612",
+      "processName": "260 Pool Barrier/Safety Device",
+      "status": "Passed",
+      "scheduleDt": "01/28/26",
+      "startDt": "01/28/26",
+      "endDt": "01/28/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40573970",
+      "processName": "120 Slab",
+      "status": "Passed",
+      "scheduleDt": "01/14/26",
+      "startDt": "01/14/26",
+      "endDt": "01/14/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40435035",
+      "processName": "350 Pool Steel",
+      "status": "Passed",
+      "scheduleDt": "12/11/25",
+      "startDt": "12/11/25",
+      "endDt": "12/11/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40426088",
+      "processName": "350 Pool Steel",
+      "status": "Failed",
+      "scheduleDt": "12/10/25",
+      "startDt": "12/10/25",
+      "endDt": "12/10/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40377662",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40377663",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40808342",
+      "processName": "Certificate of Completion",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/20/26"
+    }
+  ],
+  "permitReportAttachmentId": 15460811,
+  "inspections": [
+    {
+      "permitRef": "B25018327",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Dennis Bruce",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/20/26",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "02/20/26",
+          "user": "Dennis Bruce",
+          "comment": "2807359-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327",
+      "details": {
+        "type": "260 Pool Barrier/Safety Device",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Dennis Bruce",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/28/26",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "01/28/26",
+          "user": "Dennis Bruce",
+          "comment": "2792108-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327",
+      "details": {
+        "type": "120 Slab",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Dennis Bruce",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/14/26",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "01/14/26",
+          "user": "Dennis Bruce",
+          "comment": "2781630-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327",
+      "details": {
+        "type": "350 Pool Steel & Ground",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Dennis Bruce",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/11/25",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/10/25",
+          "user": "Dennis Bruce",
+          "comment": "2763317-",
+          "result": "Fail/No Fee"
+        },
+        {
+          "date": "12/11/25",
+          "user": "Dennis Bruce",
+          "comment": "2764501-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327 | Reference #: 2807359",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/20/26",
+        "scheduledEndDate": "",
+        "startDate": "02/20/26",
+        "endDate": "02/20/26",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "02/20/26",
+          "user": "Dennis Bruce",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327 | Reference #: 2792108",
+      "details": {
+        "type": "260 Pool Barrier/Safety Device",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/28/26",
+        "scheduledEndDate": "",
+        "startDate": "01/28/26",
+        "endDate": "01/28/26",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "01/28/26",
+          "user": "Dennis Bruce",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327 | Reference #: 2781630",
+      "details": {
+        "type": "120 Slab",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/14/26",
+        "scheduledEndDate": "",
+        "startDate": "01/14/26",
+        "endDate": "01/14/26",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "01/14/26",
+          "user": "Dennis Bruce",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327 | Reference #: 2764501",
+      "details": {
+        "type": "350 Pool Steel",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/11/25",
+        "scheduledEndDate": "",
+        "startDate": "12/11/25",
+        "endDate": "12/11/25",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/11/25",
+          "user": "Dennis Bruce",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25018327 | Reference #: 2763317",
+      "details": {
+        "type": "350 Pool Steel",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/10/25",
+        "scheduledEndDate": "",
+        "startDate": "12/10/25",
+        "endDate": "12/10/25",
+        "address": "9219 Buttonwood ST, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/10/25",
+          "user": "Dennis Bruce",
+          "comment": "",
+          "result": "Fail/No Fee"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25018327",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "31-22-31-1990-00-320",
+    "tenant": "NONE",
+    "contractor": "N/A",
+    "contractorLicense": null,
+    "valueOfWork": "$25,000.00",
+    "squareFootage": "N/A",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": null,
+    "windSpeed": null,
+    "natureOfWork": "addition",
+    "projectAddress": "9219 Buttonwood St., Orlando, FL 32825",
+    "contractorAddress": null,
+    "issuedBy": null,
+    "owner": null,
+    "specialConsiderations": "new pool",
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

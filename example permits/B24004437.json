@@ -1,0 +1,524 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B24004437",
+      "applyDate": "03/06/24",
+      "name": "8255 Lake Underhill Road",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "07/02/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "Addition",
+      "address": "8255 Lake Underhill Rd Orlando FL 32825",
+      "parcel": "25-22-30-0000-00-052",
+      "description": "New construction of rear upper wooden deck attached to primary residence. Construction of this structure was completed without a permit, and we are actively working to ensure that this now-existing structure is properly permitted.",
+      "mapLink": "https://maps.google.com?q=8255+Lake+Underhill+Rd.+Orlando+FL+32825"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "n/a no trusses"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Dennis Bruce"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "2"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "660"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": ""
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": ""
+    }
+  ],
+  "sub_permits": [],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Nathan Poole",
+      "address": "8255 Lake Underhill Rd Orlando Florida 32825"
+    },
+    {
+      "type": "Contractor",
+      "name": "Nathan Poole",
+      "address": "8255 Lake Underhill Rd Orlando Florida 32825"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "8255 Lake Underhill Rd Orlando FL 32825",
+      "parcel": "25-22-30-0000-00-052"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "36716170",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "03/08/24",
+      "startDt": "03/08/24",
+      "endDt": "11/19/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "36716299",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/19/25",
+      "startDt": "11/21/25",
+      "endDt": "11/20/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "36716298",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/19/25",
+      "startDt": "11/21/25",
+      "endDt": "11/19/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "36716302",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "06/17/24",
+      "startDt": "06/19/24",
+      "endDt": "06/19/24"
+    },
+    {
+      "group": "Review",
+      "processKey": "36716300",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "05/14/24",
+      "startDt": "05/16/24",
+      "endDt": "05/16/24"
+    },
+    {
+      "group": "Review",
+      "processKey": "36716301",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "05/14/24",
+      "startDt": "05/16/24",
+      "endDt": "05/15/24"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40369418",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40332587",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/20/25",
+      "startDt": "",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "36752649",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "03/14/24",
+      "startDt": "03/14/24",
+      "endDt": "03/19/24"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40517346",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/02/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40525992",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "01/02/26",
+      "startDt": "01/02/26",
+      "endDt": "01/02/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40526018",
+      "processName": "290 Final",
+      "status": "Cancelled",
+      "scheduleDt": "12/31/25",
+      "startDt": "12/31/25",
+      "endDt": "12/30/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40519075",
+      "processName": "290 Final",
+      "status": "Cancelled",
+      "scheduleDt": "12/31/25",
+      "startDt": "12/31/25",
+      "endDt": "12/30/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40515270",
+      "processName": "290 Final",
+      "status": "Contractors Meeting",
+      "scheduleDt": "12/29/25",
+      "startDt": "12/29/25",
+      "endDt": "12/29/25"
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40328939",
+      "processName": "Zoning Hold",
+      "status": "Released",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/22/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40374557",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40374556",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40535161",
+      "processName": "Certificate of Completion",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/02/26"
+    }
+  ],
+  "permitReportAttachmentId": 15458326,
+  "inspections": [
+    {
+      "permitRef": "B24004437",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Christopher Green",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/02/26",
+        "address": "8255 Lake Underhill RD, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/29/25",
+          "user": "Ricci Todd",
+          "comment": "2774493-",
+          "result": "Failed"
+        },
+        {
+          "date": "12/29/25",
+          "user": "Ricci Todd",
+          "comment": "2774493-",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "12/30/25",
+          "user": "Internet",
+          "comment": "2775111-Need additional time to remedy issues.",
+          "result": "Cancel"
+        },
+        {
+          "date": "12/30/25",
+          "user": "Internet",
+          "comment": "2776057-Still finalizing items on site needed prior to inspection",
+          "result": "Cancel"
+        },
+        {
+          "date": "01/02/26",
+          "user": "Christopher Green",
+          "comment": "2776055-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24004437 | Reference #: 2776055",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/02/26",
+        "scheduledEndDate": "",
+        "startDate": "01/02/26",
+        "endDate": "01/02/26",
+        "address": "8255 Lake Underhill RD, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "01/02/26",
+          "user": "Christopher Green",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24004437 | Reference #: 2776057",
+      "details": {
+        "type": "290 Final",
+        "status": "Cancelled",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/31/25",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/30/25",
+        "address": "8255 Lake Underhill RD, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/30/25",
+          "user": "Internet",
+          "comment": "Still finalizing items on site needed prior to inspection",
+          "result": "Cancel"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24004437 | Reference #: 2775111",
+      "details": {
+        "type": "290 Final",
+        "status": "Cancelled",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/31/25",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/30/25",
+        "address": "8255 Lake Underhill RD, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/30/25",
+          "user": "Internet",
+          "comment": "Need additional time to remedy issues.",
+          "result": "Cancel"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24004437 | Reference #: 2774493",
+      "details": {
+        "type": "290 Final",
+        "status": "Contractors Meeting",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/29/25",
+        "scheduledEndDate": "",
+        "startDate": "12/29/25",
+        "endDate": "12/29/25",
+        "address": "8255 Lake Underhill RD, Orlando, FL 32825"
+      },
+      "activity": [
+        {
+          "date": "12/29/25",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "12/29/25",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Contractors Meeting"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B24004437",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "25-22-30-0000-00-052",
+    "tenant": "NONE",
+    "contractor": "Nathan Poole",
+    "contractorLicense": "CGC1523973",
+    "valueOfWork": "$30,000.00",
+    "squareFootage": "N/A",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "8255 Lake Underhill Rd., Orlando, FL 32825",
+    "contractorAddress": "8255 Lake Underhill Rd., Orlando, FL 32825",
+    "issuedBy": "Michael Zaloga",
+    "owner": "POOLE JENNA R, POOLE NATHAN M",
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

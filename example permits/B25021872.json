@@ -1,0 +1,1413 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25021872",
+      "applyDate": "10/31/25",
+      "name": "SFR- LAKE STAR AT OVATION LOT 67",
+      "status": "Issued",
+      "issueDate": "12/01/25",
+      "expireDate": "10/24/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "New Construction",
+      "address": "17341 Glossy Pomelo Way Winter Garden FL 34787",
+      "parcel": "19-24-27-5312-00-670",
+      "description": "Lake Star at Ovation Phase 1B lot 67: New Single Family Residence 2 trees are required to be planted on the site prior to the certificate of occupancy being issued. DOC# 339891",
+      "mapLink": "https://maps.google.com?q=17341+Glossy+Pomelo+Way.+Winter+Garden+FL+34787"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Brian Doss"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": "08-007-06"
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": "Compliant"
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "2"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "5504"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "1446"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "6950"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "4730"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": "2"
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "E25015849",
+      "appDate": "12/01/25",
+      "issueDate": "12/01/25",
+      "status": "Complete",
+      "folderId": "3411719"
+    },
+    {
+      "permitNumber": "P25011821",
+      "appDate": "12/09/25",
+      "issueDate": "12/09/25",
+      "status": "Issued",
+      "folderId": "3414544"
+    },
+    {
+      "permitNumber": "H26001834",
+      "appDate": "03/02/26",
+      "issueDate": "03/02/26",
+      "status": "Issued",
+      "folderId": "3440569"
+    },
+    {
+      "permitNumber": "X26000213",
+      "appDate": "03/02/26",
+      "issueDate": "03/02/26",
+      "status": "Complete",
+      "folderId": "3440489"
+    },
+    {
+      "permitNumber": "T26002163",
+      "appDate": "03/03/26",
+      "issueDate": "03/03/26",
+      "status": "Complete",
+      "folderId": "3440793"
+    },
+    {
+      "permitNumber": "E26003373",
+      "appDate": "03/12/26",
+      "issueDate": "03/12/26",
+      "status": "Complete",
+      "folderId": "3444896"
+    },
+    {
+      "permitNumber": "P26004995",
+      "appDate": "06/02/26",
+      "issueDate": "06/04/26",
+      "status": "Issued",
+      "folderId": "3475638"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "M/I Homes (Andrew M Stilfield)",
+      "address": "400 International Dr Suite 470 Florida 32746"
+    },
+    {
+      "type": "Contractor",
+      "name": "M/I Homes (Andrew M Stilfield)",
+      "address": "400 International Dr Suite 470 Florida 32746"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "17341 Glossy Pomelo Way Winter Garden FL 34787",
+      "parcel": "19-24-27-5312-00-670"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "40220470",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "10/31/25",
+      "startDt": "10/31/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220487",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/21/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220495",
+      "processName": "Architectural/Lighting Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/21/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220488",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/19/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220491",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/19/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220494",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "10/31/25",
+      "startDt": "11/14/25",
+      "endDt": "11/12/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220490",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "10/31/25",
+      "startDt": "11/14/25",
+      "endDt": "11/03/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40220493",
+      "processName": "Concurrency Review",
+      "status": "Approved",
+      "scheduleDt": "10/31/25",
+      "startDt": "11/14/25",
+      "endDt": "11/03/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40300490",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "12/01/25",
+      "endDt": "01/20/26"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40366876",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40365156",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40220492",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "10/31/25",
+      "startDt": "11/14/25",
+      "endDt": "11/13/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41184462",
+      "processName": "191 Fire Rated Assembly",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/24/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41158397",
+      "processName": "210 Insulation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/21/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41086189",
+      "processName": "190 Framing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/17/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41019998",
+      "processName": "188 Window Installation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/02/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40830553",
+      "processName": "189 Exterior Frame",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/25/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40706212",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/05/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40687424",
+      "processName": "135 Elevation Cert",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/03/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40617997",
+      "processName": "120 Slab",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/21/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40511252",
+      "processName": "110 Footing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/26/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41167479",
+      "processName": "191 Fire Rated Assembly",
+      "status": "Passed",
+      "scheduleDt": "04/24/26",
+      "startDt": "04/24/26",
+      "endDt": "04/24/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41149257",
+      "processName": "210 Insulation",
+      "status": "Passed",
+      "scheduleDt": "04/21/26",
+      "startDt": "04/21/26",
+      "endDt": "04/21/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41133884",
+      "processName": "190 Framing",
+      "status": "Passed",
+      "scheduleDt": "04/17/26",
+      "startDt": "04/17/26",
+      "endDt": "04/17/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41101854",
+      "processName": "211 Lath",
+      "status": "Passed",
+      "scheduleDt": "04/13/26",
+      "startDt": "04/13/26",
+      "endDt": "04/13/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41086350",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41086349",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41086351",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41086332",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41086348",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41075321",
+      "processName": "190 Framing",
+      "status": "Contractors Meeting",
+      "scheduleDt": "04/08/26",
+      "startDt": "04/08/26",
+      "endDt": "04/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41075320",
+      "processName": "190 Framing",
+      "status": "Contractors Meeting",
+      "scheduleDt": "04/08/26",
+      "startDt": "04/08/26",
+      "endDt": "04/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41075318",
+      "processName": "190 Framing",
+      "status": "Contractors Meeting",
+      "scheduleDt": "04/08/26",
+      "startDt": "04/08/26",
+      "endDt": "04/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41075322",
+      "processName": "190 Framing",
+      "status": "Contractors Meeting",
+      "scheduleDt": "04/08/26",
+      "startDt": "04/08/26",
+      "endDt": "04/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41075319",
+      "processName": "190 Framing",
+      "status": "Contractors Meeting",
+      "scheduleDt": "04/08/26",
+      "startDt": "04/08/26",
+      "endDt": "04/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41042743",
+      "processName": "188 Window Installation",
+      "status": "Passed",
+      "scheduleDt": "04/02/26",
+      "startDt": "04/02/26",
+      "endDt": "04/02/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41006968",
+      "processName": "188 Window Installation",
+      "status": "Failed",
+      "scheduleDt": "03/27/26",
+      "startDt": "03/27/26",
+      "endDt": "03/27/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40824118",
+      "processName": "189 Exterior Frame",
+      "status": "Passed",
+      "scheduleDt": "02/25/26",
+      "startDt": "02/25/26",
+      "endDt": "02/25/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40708013",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Passed",
+      "scheduleDt": "02/05/26",
+      "startDt": "02/05/26",
+      "endDt": "02/05/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40701243",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Failed",
+      "scheduleDt": "02/04/26",
+      "startDt": "02/04/26",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40695126",
+      "processName": "135 Elevation Cert",
+      "status": "Passed",
+      "scheduleDt": "02/03/26",
+      "startDt": "02/03/26",
+      "endDt": "02/03/26"
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40287917",
+      "processName": "Stormwater Hold",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40365915",
+      "processName": "Impact Fee Hold",
+      "status": "Released",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "01/20/26"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40377231",
+      "processName": "Final Power Call",
+      "status": "Open",
+      "scheduleDt": "06/17/26",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40372606",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40372607",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    }
+  ],
+  "permitReportAttachmentId": 15456623,
+  "inspections": [
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "191 Fire Rated Assembly",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Joseph Jolley",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/24/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/24/26",
+          "user": "Joseph Jolley",
+          "comment": "2853976-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "210 Insulation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Salvador Perez",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/21/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/21/26",
+          "user": "Salvador Perez",
+          "comment": "2851699-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "190 Framing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Bradley Deverall",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/17/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "2842302-",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "2842302-",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "2842302-",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "2842302-",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "2842302-",
+          "result": "Contractors Meeting"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "2843588-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "2843586-see fail this date",
+          "result": "Partial"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "2843588-see fail this date",
+          "result": "Partial"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "2843588-see fail this date",
+          "result": "Partial"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "2843588-see fail this date",
+          "result": "Partial"
+        },
+        {
+          "date": "04/17/26",
+          "user": "Bradley Deverall",
+          "comment": "2849560-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Farmer",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/02/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/27/26",
+          "user": "Ricci Todd",
+          "comment": "2834142-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/02/26",
+          "user": "Robert Farmer",
+          "comment": "2838563-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/25/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/25/26",
+          "user": "Brian Dowling",
+          "comment": "2812348-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/05/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Brian Doss",
+          "comment": "2797422-",
+          "result": "Failed"
+        },
+        {
+          "date": "02/05/26",
+          "user": "Brian Doss",
+          "comment": "2798234-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Jennifer F Manibusan",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/03/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/30/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "2794450-",
+          "result": "Fail/No Fee"
+        },
+        {
+          "date": "02/03/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "2796629-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "120 Slab",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/21/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/20/26",
+          "user": "Brian Doss",
+          "comment": "2786176-",
+          "result": "Failed"
+        },
+        {
+          "date": "01/21/26",
+          "user": "Brian Doss",
+          "comment": "2787341-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872",
+      "details": {
+        "type": "110 Footing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Joshua E Fitts",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/26/25",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/26/25",
+          "user": "Joshua E Fitts",
+          "comment": "2773722-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2853976",
+      "details": {
+        "type": "191 Fire Rated Assembly",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/24/26",
+        "scheduledEndDate": "",
+        "startDate": "04/24/26",
+        "endDate": "04/24/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/24/26",
+          "user": "Joseph Jolley",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2851699",
+      "details": {
+        "type": "210 Insulation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/21/26",
+        "scheduledEndDate": "",
+        "startDate": "04/21/26",
+        "endDate": "04/21/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/21/26",
+          "user": "Salvador Perez",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2849560",
+      "details": {
+        "type": "190 Framing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/17/26",
+        "scheduledEndDate": "",
+        "startDate": "04/17/26",
+        "endDate": "04/17/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/17/26",
+          "user": "Bradley Deverall",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2845460",
+      "details": {
+        "type": "211 Lath",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/13/26",
+        "scheduledEndDate": "",
+        "startDate": "04/13/26",
+        "endDate": "04/13/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/13/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2843588",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "see fail this date",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2843588",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "see fail this date",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2843588",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "see fail this date",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2843586",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "see fail this date",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2843588",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Bradley Deverall",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2842302",
+      "details": {
+        "type": "190 Framing",
+        "status": "Contractors Meeting",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/08/26",
+        "scheduledEndDate": "",
+        "startDate": "04/08/26",
+        "endDate": "04/08/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Contractors Meeting"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2842302",
+      "details": {
+        "type": "190 Framing",
+        "status": "Contractors Meeting",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/08/26",
+        "scheduledEndDate": "",
+        "startDate": "04/08/26",
+        "endDate": "04/08/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Contractors Meeting"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2842302",
+      "details": {
+        "type": "190 Framing",
+        "status": "Contractors Meeting",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/08/26",
+        "scheduledEndDate": "",
+        "startDate": "04/08/26",
+        "endDate": "04/08/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Contractors Meeting"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2842302",
+      "details": {
+        "type": "190 Framing",
+        "status": "Contractors Meeting",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/08/26",
+        "scheduledEndDate": "",
+        "startDate": "04/08/26",
+        "endDate": "04/08/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Contractors Meeting"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2842302",
+      "details": {
+        "type": "190 Framing",
+        "status": "Contractors Meeting",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/08/26",
+        "scheduledEndDate": "",
+        "startDate": "04/08/26",
+        "endDate": "04/08/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Aaron Anderson",
+          "comment": "",
+          "result": "Contractors Meeting"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2838563",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/02/26",
+        "scheduledEndDate": "",
+        "startDate": "04/02/26",
+        "endDate": "04/02/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/02/26",
+          "user": "Robert Farmer",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2834142",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/27/26",
+        "scheduledEndDate": "",
+        "startDate": "03/27/26",
+        "endDate": "03/27/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/27/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2812348",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/25/26",
+        "scheduledEndDate": "",
+        "startDate": "02/25/26",
+        "endDate": "02/25/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/25/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2798234",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/05/26",
+        "scheduledEndDate": "",
+        "startDate": "02/05/26",
+        "endDate": "02/05/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/05/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2797422",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/04/26",
+        "scheduledEndDate": "",
+        "startDate": "02/04/26",
+        "endDate": "02/04/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021872 | Reference #: 2796629",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/03/26",
+        "scheduledEndDate": "",
+        "startDate": "02/03/26",
+        "endDate": "02/03/26",
+        "address": "17341 Glossy Pomelo WAY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/03/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25021872",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "19-24-27-5312-00-670",
+    "tenant": "NONE",
+    "contractor": "Andrew M Stilfield",
+    "contractorLicense": "CBC1262323",
+    "valueOfWork": "$625,500.00",
+    "squareFootage": "6950",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "17341 Glossy Pomelo Way., Winter Garden, FL 34787",
+    "contractorAddress": "400 International Dr., Suite 470, Lake Mary, FL 32746",
+    "issuedBy": "Lucy Mannix",
+    "owner": "M/I HOMES OF ORLANDO LLC",
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

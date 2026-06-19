@@ -1,0 +1,1248 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25021376",
+      "applyDate": "10/23/25",
+      "name": "PROJECT - SFR- LAKE STAR AT OVATION PHASE 1A",
+      "status": "Issued",
+      "issueDate": "12/01/25",
+      "expireDate": "10/01/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "New Construction",
+      "address": "17142 Beachgrass Aly Winter Garden FL 34787",
+      "parcel": "19-24-27-5312-00-860",
+      "description": "Lake Star at Ovation Phase 1B lot 86: New Single Family Residence with Detached Garage (B25021378) * 1 number of trees are required to be planted on the site prior to the certificate of occupancy being issued. A list of trees on the acceptable stock list are found on Sec. 24-12.",
+      "mapLink": "https://maps.google.com?q=17142+Beachgrass+Aly.+Winter+Garden+FL+34787"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Brian Doss"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": "08-007-06"
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": "Compliant"
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "2"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "1983"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "212"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "2195"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "1983"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": "1"
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "B25021378",
+      "appDate": "10/23/25",
+      "issueDate": "12/01/25",
+      "status": "Issued",
+      "folderId": "3399401"
+    },
+    {
+      "permitNumber": "E25015853",
+      "appDate": "12/01/25",
+      "issueDate": "12/01/25",
+      "status": "Complete",
+      "folderId": "3411726"
+    },
+    {
+      "permitNumber": "P25011889",
+      "appDate": "12/10/25",
+      "issueDate": "12/12/25",
+      "status": "Issued",
+      "folderId": "3415224"
+    },
+    {
+      "permitNumber": "T26002022",
+      "appDate": "02/26/26",
+      "issueDate": "02/26/26",
+      "status": "Complete",
+      "folderId": "3439283"
+    },
+    {
+      "permitNumber": "H26001752",
+      "appDate": "02/26/26",
+      "issueDate": "02/26/26",
+      "status": "Complete",
+      "folderId": "3439651"
+    },
+    {
+      "permitNumber": "X26000238",
+      "appDate": "03/05/26",
+      "issueDate": "03/06/26",
+      "status": "Complete",
+      "folderId": "3442048"
+    },
+    {
+      "permitNumber": "E26003256",
+      "appDate": "03/11/26",
+      "issueDate": "03/12/26",
+      "status": "Complete",
+      "folderId": "3444232"
+    },
+    {
+      "permitNumber": "P26002955",
+      "appDate": "04/03/26",
+      "issueDate": "04/07/26",
+      "status": "Complete",
+      "folderId": "3452661"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "M/I Homes (Andrew M Stilfield)",
+      "address": "400 International Dr Suite 470 Florida 32746"
+    },
+    {
+      "type": "Contractor",
+      "name": "M/I Homes (Andrew M Stilfield)",
+      "address": "400 International Dr Suite 470 Florida 32746"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "17142 Beachgrass Aly Winter Garden FL 34787",
+      "parcel": "19-24-27-5312-00-860"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "40177229",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "10/24/25",
+      "startDt": "10/24/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40177246",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/24/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40177242",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/21/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40177243",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/21/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40177247",
+      "processName": "Architectural/Lighting Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/24/25",
+      "endDt": "11/21/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40177245",
+      "processName": "Concurrency Review",
+      "status": "Approved",
+      "scheduleDt": "10/24/25",
+      "startDt": "11/07/25",
+      "endDt": "10/24/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40259973",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "12/01/25",
+      "endDt": "01/20/26"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40366870",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40364909",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40177244",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "10/24/25",
+      "startDt": "11/07/25",
+      "endDt": "11/13/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41044137",
+      "processName": "210 Insulation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/01/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40982266",
+      "processName": "190 Framing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/01/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40925865",
+      "processName": "188 Window Installation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/12/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40854061",
+      "processName": "189 Exterior Frame",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/02/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40773150",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/16/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40714369",
+      "processName": "120 Slab",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/06/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40457080",
+      "processName": "110 Footing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/17/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41033880",
+      "processName": "210 Insulation",
+      "status": "Passed",
+      "scheduleDt": "04/01/26",
+      "startDt": "04/01/26",
+      "endDt": "04/01/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41039833",
+      "processName": "190 Framing",
+      "status": "Passed",
+      "scheduleDt": "04/01/26",
+      "startDt": "04/01/26",
+      "endDt": "04/01/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41031130",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "03/31/26",
+      "startDt": "03/31/26",
+      "endDt": "03/31/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41022023",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "03/30/26",
+      "startDt": "03/30/26",
+      "endDt": "03/30/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41013428",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "03/27/26",
+      "startDt": "03/27/26",
+      "endDt": "03/27/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41002873",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "03/26/26",
+      "startDt": "03/26/26",
+      "endDt": "03/26/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40981497",
+      "processName": "211 Lath",
+      "status": "Passed",
+      "scheduleDt": "03/23/26",
+      "startDt": "03/23/26",
+      "endDt": "03/23/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40981495",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "03/23/26",
+      "startDt": "03/23/26",
+      "endDt": "03/23/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40981496",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "03/23/26",
+      "startDt": "03/23/26",
+      "endDt": "03/23/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40981494",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "03/23/26",
+      "startDt": "03/23/26",
+      "endDt": "03/23/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40922218",
+      "processName": "188 Window Installation",
+      "status": "Passed",
+      "scheduleDt": "03/12/26",
+      "startDt": "03/12/26",
+      "endDt": "03/12/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40850911",
+      "processName": "189 Exterior Frame",
+      "status": "Passed",
+      "scheduleDt": "03/02/26",
+      "startDt": "03/02/26",
+      "endDt": "03/02/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40769661",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Passed",
+      "scheduleDt": "02/16/26",
+      "startDt": "02/16/26",
+      "endDt": "02/16/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40721782",
+      "processName": "120 Slab",
+      "status": "Passed",
+      "scheduleDt": "02/06/26",
+      "startDt": "02/06/26",
+      "endDt": "02/06/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40714094",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "02/05/26",
+      "startDt": "02/05/26",
+      "endDt": "02/05/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40504331",
+      "processName": "115 Stem Wall",
+      "status": "Passed",
+      "scheduleDt": "12/26/25",
+      "startDt": "12/26/25",
+      "endDt": "12/26/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40471985",
+      "processName": "110 Footing",
+      "status": "Passed",
+      "scheduleDt": "12/17/25",
+      "startDt": "12/17/25",
+      "endDt": "12/17/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40454994",
+      "processName": "110 Footing",
+      "status": "Failed",
+      "scheduleDt": "12/15/25",
+      "startDt": "12/15/25",
+      "endDt": "12/15/25"
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40365918",
+      "processName": "Impact Fee Hold",
+      "status": "Released",
+      "scheduleDt": "11/26/25",
+      "startDt": "",
+      "endDt": "01/20/26"
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40173000",
+      "processName": "Plat Review Hold",
+      "status": "Released",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "10/29/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40372598",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40372599",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40377299",
+      "processName": "Final Power Call",
+      "status": "Open",
+      "scheduleDt": "06/04/26",
+      "startDt": "",
+      "endDt": ""
+    }
+  ],
+  "permitReportAttachmentId": 15456621,
+  "inspections": [
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "210 Insulation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Ricci Todd",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/01/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/01/26",
+          "user": "Ricci Todd",
+          "comment": "2837484-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "190 Framing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Ricci Todd",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/01/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "2830796-",
+          "result": "Failed"
+        },
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "2830796-See fail this date.",
+          "result": "Partial"
+        },
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "2830796-See fail this date.",
+          "result": "Partial"
+        },
+        {
+          "date": "03/26/26",
+          "user": "Ricci Todd",
+          "comment": "2833462-",
+          "result": "Failed"
+        },
+        {
+          "date": "03/27/26",
+          "user": "Ricci Todd",
+          "comment": "2835116-Okay to insulate. Insulation will need to be moved by contractor's rep to verify Shear panels. marked in purple.",
+          "result": "Failed"
+        },
+        {
+          "date": "03/30/26",
+          "user": "Ricci Todd",
+          "comment": "2836137-",
+          "result": "Failed"
+        },
+        {
+          "date": "03/31/26",
+          "user": "Robert Farmer",
+          "comment": "2837271-Corrections not complete. See original list.",
+          "result": "Fail/No Fee"
+        },
+        {
+          "date": "04/01/26",
+          "user": "Ricci Todd",
+          "comment": "2838231-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "03/12/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/12/26",
+          "user": "Brian Doss",
+          "comment": "2823695-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "03/02/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/02/26",
+          "user": "Brian Doss",
+          "comment": "2815559-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/16/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/16/26",
+          "user": "Brian Doss",
+          "comment": "2805665-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "120 Slab",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/06/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/05/26",
+          "user": "Brian Doss",
+          "comment": "2799058-",
+          "result": "Failed"
+        },
+        {
+          "date": "02/06/26",
+          "user": "Brian Doss",
+          "comment": "2799947-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376",
+      "details": {
+        "type": "110 Footing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Doss",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/17/25",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/15/25",
+          "user": "Brian Doss",
+          "comment": "2767123-",
+          "result": "Failed"
+        },
+        {
+          "date": "12/17/25",
+          "user": "Brian Doss",
+          "comment": "2769147-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2837484",
+      "details": {
+        "type": "210 Insulation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/01/26",
+        "scheduledEndDate": "",
+        "startDate": "04/01/26",
+        "endDate": "04/01/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/01/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2838231",
+      "details": {
+        "type": "190 Framing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/01/26",
+        "scheduledEndDate": "",
+        "startDate": "04/01/26",
+        "endDate": "04/01/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/01/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2837271",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/31/26",
+        "scheduledEndDate": "",
+        "startDate": "03/31/26",
+        "endDate": "03/31/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/31/26",
+          "user": "Robert Farmer",
+          "comment": "Corrections not complete. See original list.",
+          "result": "Fail/No Fee"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2836137",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/30/26",
+        "scheduledEndDate": "",
+        "startDate": "03/30/26",
+        "endDate": "03/30/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/30/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2835116",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/27/26",
+        "scheduledEndDate": "",
+        "startDate": "03/27/26",
+        "endDate": "03/27/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/27/26",
+          "user": "Ricci Todd",
+          "comment": "Okay to insulate. Insulation will need to be moved by contractor's rep to verify Shear panels. marked in purple.",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2833462",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/26/26",
+        "scheduledEndDate": "",
+        "startDate": "03/26/26",
+        "endDate": "03/26/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/26/26",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2830797",
+      "details": {
+        "type": "211 Lath",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/23/26",
+        "scheduledEndDate": "",
+        "startDate": "03/23/26",
+        "endDate": "03/23/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2830796",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/23/26",
+        "scheduledEndDate": "",
+        "startDate": "03/23/26",
+        "endDate": "03/23/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "See fail this date.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2830796",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/23/26",
+        "scheduledEndDate": "",
+        "startDate": "03/23/26",
+        "endDate": "03/23/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "See fail this date.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2830796",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/23/26",
+        "scheduledEndDate": "",
+        "startDate": "03/23/26",
+        "endDate": "03/23/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/23/26",
+          "user": "Joseph Jolley",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2823695",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/12/26",
+        "scheduledEndDate": "",
+        "startDate": "03/12/26",
+        "endDate": "03/12/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/12/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2815559",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/02/26",
+        "scheduledEndDate": "",
+        "startDate": "03/02/26",
+        "endDate": "03/02/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "03/02/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2805665",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/16/26",
+        "scheduledEndDate": "",
+        "startDate": "02/16/26",
+        "endDate": "02/16/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/16/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2799947",
+      "details": {
+        "type": "120 Slab",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/06/26",
+        "scheduledEndDate": "",
+        "startDate": "02/06/26",
+        "endDate": "02/06/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/06/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2799058",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/05/26",
+        "scheduledEndDate": "",
+        "startDate": "02/05/26",
+        "endDate": "02/05/26",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/05/26",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2773315",
+      "details": {
+        "type": "115 Stem Wall",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/26/25",
+        "scheduledEndDate": "",
+        "startDate": "12/26/25",
+        "endDate": "12/26/25",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/26/25",
+          "user": "Joshua E Fitts",
+          "comment": "house only inspected. garage permit not called in",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2769147",
+      "details": {
+        "type": "110 Footing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/17/25",
+        "scheduledEndDate": "",
+        "startDate": "12/17/25",
+        "endDate": "12/17/25",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/17/25",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25021376 | Reference #: 2767123",
+      "details": {
+        "type": "110 Footing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/15/25",
+        "scheduledEndDate": "",
+        "startDate": "12/15/25",
+        "endDate": "12/15/25",
+        "address": "17142 Beachgrass ALY, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/15/25",
+          "user": "Brian Doss",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25021376",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "19-24-27-5312-00-860",
+    "tenant": "NONE",
+    "contractor": "Andrew M Stilfield",
+    "contractorLicense": "CBC1262323",
+    "valueOfWork": "$235,980.00",
+    "squareFootage": "2195",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "17142 Beachgrass Aly., Winter Garden, FL 34787",
+    "contractorAddress": "400 International Dr., Suite 470, Lake Mary, FL 32746",
+    "issuedBy": null,
+    "owner": null,
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B24008359",
+      "applyDate": "04/23/24",
+      "name": "PROJECT-Residence - Lake Pickett - 044",
+      "status": "Issued",
+      "issueDate": "12/01/25",
+      "expireDate": "12/15/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "New Construction",
+      "address": "2397 Lake Pickett Rd Orlando FL 32826",
+      "parcel": "14-22-31-0000-00-044",
+      "description": "NEW RESIDENCE WITH A DETACHED 3 CAR GARAGE PERMITTED SEPERATELY (B24008736) **PRIVATE PROVIDER InspectFL, LLC Jeremy Shane Gerwig BU1598 Inspections Only**",
+      "mapLink": "https://maps.google.com?q=2397+Lake+Pickett+Rd.+Orlando+FL+32826"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "Yes"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Chad Faurot"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "No"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "2"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "2"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "3372"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "60"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "3432"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "3244"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": "6"
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "B24008736",
+      "appDate": "04/26/24",
+      "issueDate": "12/01/25",
+      "status": "Issued",
+      "folderId": "3207312"
+    },
+    {
+      "permitNumber": "P25011538",
+      "appDate": "11/26/25",
+      "issueDate": "12/01/25",
+      "status": "Issued",
+      "folderId": "3411237"
+    },
+    {
+      "permitNumber": "T25014511",
+      "appDate": "11/26/25",
+      "issueDate": "12/01/25",
+      "status": "Issued",
+      "folderId": "3411233"
+    },
+    {
+      "permitNumber": "E25015852",
+      "appDate": "12/01/25",
+      "issueDate": "12/04/25",
+      "status": "Issued",
+      "folderId": "3411724"
+    },
+    {
+      "permitNumber": "E25015856",
+      "appDate": "12/01/25",
+      "issueDate": "12/05/25",
+      "status": "Issued",
+      "folderId": "3411729"
+    },
+    {
+      "permitNumber": "H26002880",
+      "appDate": "03/30/26",
+      "issueDate": "03/30/26",
+      "status": "Issued",
+      "folderId": "3450479"
+    },
+    {
+      "permitNumber": "Z24003317",
+      "appDate": "04/23/24",
+      "issueDate": "",
+      "status": "Complete",
+      "folderId": "3205624"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Steve L Murphy",
+      "address": "7436 Narcossee Rd Orlando Florida 32822"
+    },
+    {
+      "type": "Contractor",
+      "name": "Steve L Murphy",
+      "address": "7436 Narcossee Rd Orlando Florida 32822"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "2397 Lake Pickett Rd Orlando FL 32826",
+      "parcel": "14-22-31-0000-00-044"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "37034822",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "04/29/24",
+      "startDt": "04/29/24",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "37034844",
+      "processName": "Health Review",
+      "status": "Revisions (Under Review)",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/22/26",
+      "endDt": ""
+    },
+    {
+      "group": "Review",
+      "processKey": "37034839",
+      "processName": "Zoning Review",
+      "status": "Revisions (Under Review)",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/22/26",
+      "endDt": ""
+    },
+    {
+      "group": "Review",
+      "processKey": "37034840",
+      "processName": "Building Review (RES)",
+      "status": "Revisions (Under Review)",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/22/26",
+      "endDt": ""
+    },
+    {
+      "group": "Review",
+      "processKey": "37034847",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/22/26",
+      "endDt": "06/17/26"
+    },
+    {
+      "group": "Review",
+      "processKey": "37034842",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "06/15/26",
+      "startDt": "06/22/26",
+      "endDt": "06/15/26"
+    },
+    {
+      "group": "Review",
+      "processKey": "37034841",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "11/18/25",
+      "startDt": "11/25/25",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "37034846",
+      "processName": "Concurrency Review",
+      "status": "Approved",
+      "scheduleDt": "04/29/24",
+      "startDt": "05/13/24",
+      "endDt": "04/29/24"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40369070",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "11/26/25",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40364404",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/26/25",
+      "startDt": "11/26/25",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "37034845",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/18/25",
+      "startDt": "11/26/25",
+      "endDt": "11/26/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "37034843",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "04/29/24",
+      "startDt": "05/22/24",
+      "endDt": "05/22/24"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40941521",
+      "processName": "135 Elevation Cert",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/16/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41214634",
+      "processName": "210 Insulation",
+      "status": "OC Notified",
+      "scheduleDt": "04/30/26",
+      "startDt": "04/30/26",
+      "endDt": "04/30/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41188844",
+      "processName": "188 Window Installation",
+      "status": "OC Notified",
+      "scheduleDt": "04/27/26",
+      "startDt": "04/27/26",
+      "endDt": "04/27/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41188852",
+      "processName": "190 Framing",
+      "status": "OC Notified",
+      "scheduleDt": "04/27/26",
+      "startDt": "04/27/26",
+      "endDt": "04/27/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40994676",
+      "processName": "189 Exterior Frame",
+      "status": "OC Notified",
+      "scheduleDt": "03/26/26",
+      "startDt": "03/26/26",
+      "endDt": "03/26/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40941948",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "OC Notified",
+      "scheduleDt": "03/17/26",
+      "startDt": "03/17/26",
+      "endDt": "03/17/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40941368",
+      "processName": "135 Elevation Cert",
+      "status": "Passed",
+      "scheduleDt": "03/17/26",
+      "startDt": "03/17/26",
+      "endDt": "03/16/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40580362",
+      "processName": "120 Slab",
+      "status": "OC Notified",
+      "scheduleDt": "01/15/26",
+      "startDt": "01/15/26",
+      "endDt": "01/15/26"
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "37115569",
+      "processName": "Stormwater Hold",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "40280775",
+      "processName": "Septic Permit Hold",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Cert. of Occupancy/Completion Holds",
+      "processKey": "41524702",
+      "processName": "Engineering Hold",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40374719",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40374718",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40387879",
+      "processName": "Final Power Call",
+      "status": "Open",
+      "scheduleDt": "12/02/25",
+      "startDt": "",
+      "endDt": ""
+    }
+  ],
+  "permitReportAttachmentId": 15458401,
+  "inspections": [
+    {
+      "permitRef": "B24008359",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Jennifer F Manibusan",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "03/16/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "03/16/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "2825896-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2859782",
+      "details": {
+        "type": "210 Insulation",
+        "status": "OC Notified",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/30/26",
+        "scheduledEndDate": "",
+        "startDate": "04/30/26",
+        "endDate": "04/30/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "04/30/26",
+          "user": "N/A",
+          "comment": "",
+          "result": "OC Notified"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2856519",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "OC Notified",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/27/26",
+        "scheduledEndDate": "",
+        "startDate": "04/27/26",
+        "endDate": "04/27/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "04/27/26",
+          "user": "N/A",
+          "comment": "",
+          "result": "OC Notified"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2856521",
+      "details": {
+        "type": "190 Framing",
+        "status": "OC Notified",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/27/26",
+        "scheduledEndDate": "",
+        "startDate": "04/27/26",
+        "endDate": "04/27/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "04/27/26",
+          "user": "N/A",
+          "comment": "",
+          "result": "OC Notified"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2832517",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "OC Notified",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/26/26",
+        "scheduledEndDate": "",
+        "startDate": "03/26/26",
+        "endDate": "03/26/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "03/26/26",
+          "user": "N/A",
+          "comment": "",
+          "result": "OC Notified"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2825957",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "OC Notified",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/17/26",
+        "scheduledEndDate": "",
+        "startDate": "03/17/26",
+        "endDate": "03/17/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "03/17/26",
+          "user": "N/A",
+          "comment": "",
+          "result": "OC Notified"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2825896",
+      "details": {
+        "type": "135 Elevation Cert",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/17/26",
+        "scheduledEndDate": "",
+        "startDate": "03/16/26",
+        "endDate": "03/16/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "03/16/26",
+          "user": "Jennifer F Manibusan",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B24008359 | Reference #: 2782443",
+      "details": {
+        "type": "120 Slab",
+        "status": "OC Notified",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/15/26",
+        "scheduledEndDate": "",
+        "startDate": "01/15/26",
+        "endDate": "01/15/26",
+        "address": "2397 Lake Pickett RD, Orlando, FL 32826"
+      },
+      "activity": [
+        {
+          "date": "01/15/26",
+          "user": "N/A",
+          "comment": "",
+          "result": "OC Notified"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B24008359",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "14-22-31-0000-00-044",
+    "tenant": "NONE",
+    "contractor": "Steve L Murphy",
+    "contractorLicense": "CGC1510231",
+    "valueOfWork": "$329,424.00",
+    "squareFootage": "3432",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "2397 Lake Pickett Rd., Orlando, FL 32826",
+    "contractorAddress": "7436 Narcossee Rd., Orlando, FL 32822",
+    "issuedBy": "Jesus DuranRodriguez",
+    "owner": "CDS CONTRACTORS INC",
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

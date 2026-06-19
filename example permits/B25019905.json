@@ -1,0 +1,472 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25019905",
+      "applyDate": "10/03/25",
+      "name": "Seawall- CYPRESS SHORES 1ST ADD",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "09/02/26",
+      "type": "Residential Permit",
+      "subType": "Non-census",
+      "workType": "New Construction",
+      "address": "9940 Lone Tree Ln Orlando FL 32836",
+      "parcel": "32-23-28-1874-00-200",
+      "description": "Installing a new seawall",
+      "mapLink": "https://maps.google.com?q=9940+Lone+Tree+Ln.+Orlando+FL+32836"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "n/a no trusses"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Robert Bieber"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": ""
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "Yes"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": ""
+    }
+  ],
+  "sub_permits": [],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Jason William Louche",
+      "address": "1204 Gallant Fox Way Florida 32766"
+    },
+    {
+      "type": "Contractor",
+      "name": "Jason William Louche",
+      "address": "1204 Gallant Fox Way Florida 32766"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "9940 Lone Tree Ln Orlando FL 32836",
+      "parcel": "32-23-28-1874-00-200"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "40070857",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "10/08/25",
+      "startDt": "10/08/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40102147",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/19/25",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40102148",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/19/25",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40102149",
+      "processName": "EPD Review",
+      "status": "Approved",
+      "scheduleDt": "11/17/25",
+      "startDt": "11/19/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40102151",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "10/31/25",
+      "startDt": "11/04/25",
+      "endDt": "11/05/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40102150",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "10/13/25",
+      "startDt": "10/17/25",
+      "endDt": "10/16/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40378113",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "12/01/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40321466",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/18/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40561899",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/02/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40446414",
+      "processName": "110 Footing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/11/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40843884",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "03/02/26",
+      "startDt": "03/02/26",
+      "endDt": "03/02/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40555787",
+      "processName": "290 Final",
+      "status": "Partial",
+      "scheduleDt": "01/08/26",
+      "startDt": "01/08/26",
+      "endDt": "01/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40443094",
+      "processName": "110 Footing",
+      "status": "Passed",
+      "scheduleDt": "12/11/25",
+      "startDt": "12/11/25",
+      "endDt": "12/11/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40379882",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40379881",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40854509",
+      "processName": "Certificate of Completion",
+      "status": "Complete",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "03/02/26"
+    }
+  ],
+  "permitReportAttachmentId": 15462669,
+  "inspections": [
+    {
+      "permitRef": "B25019905",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Bieber",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "03/02/26",
+        "address": "9940 Lone Tree LN, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "01/08/26",
+          "user": "Robert Bieber",
+          "comment": "2779356-Dead men bolts to seawall attachment OK to cover with trim wood grade just needs to be re-established and material cleaned up to pass.",
+          "result": "Partial"
+        },
+        {
+          "date": "03/02/26",
+          "user": "Robert Bieber",
+          "comment": "2814688-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019905",
+      "details": {
+        "type": "110 Footing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Bieber",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/11/25",
+        "address": "9940 Lone Tree LN, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "12/11/25",
+          "user": "Robert Bieber",
+          "comment": "2765693-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019905 | Reference #: 2814688",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "03/02/26",
+        "scheduledEndDate": "",
+        "startDate": "03/02/26",
+        "endDate": "03/02/26",
+        "address": "9940 Lone Tree LN, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "03/02/26",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019905 | Reference #: 2779356",
+      "details": {
+        "type": "290 Final",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/08/26",
+        "scheduledEndDate": "",
+        "startDate": "01/08/26",
+        "endDate": "01/08/26",
+        "address": "9940 Lone Tree LN, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "01/08/26",
+          "user": "Robert Bieber",
+          "comment": "Dead men bolts to seawall attachment OK to cover with trim wood grade just needs to be re-established and material cleaned up to pass.",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25019905 | Reference #: 2765693",
+      "details": {
+        "type": "110 Footing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/11/25",
+        "scheduledEndDate": "",
+        "startDate": "12/11/25",
+        "endDate": "12/11/25",
+        "address": "9940 Lone Tree LN, Orlando, FL 32836"
+      },
+      "activity": [
+        {
+          "date": "12/11/25",
+          "user": "Robert Bieber",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25019905",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "32-23-28-1874-00-200",
+    "tenant": "NONE",
+    "contractor": "Jason William Louche",
+    "contractorLicense": "CGC1523728",
+    "valueOfWork": "$35,000.00",
+    "squareFootage": "N/A",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "9940 Lone Tree Ln., Orlando, FL 32836",
+    "contractorAddress": "1204 Gallant Fox Way., Chuluota, FL 32766",
+    "issuedBy": "Abraham Lopez",
+    "owner": "Elliot T Ferwerda",
+    "specialConsiderations": "Installing a new seawall",
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}

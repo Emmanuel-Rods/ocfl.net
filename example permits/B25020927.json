@@ -1,0 +1,1191 @@
+{
+  "permit": {
+    "permitInfo": {
+      "permitNumber": "B25020927",
+      "applyDate": "10/17/25",
+      "name": "SFR- SILVERLEAF OAKS AT HAMLIN PHASE 3B",
+      "status": "Complete",
+      "issueDate": "12/01/25",
+      "expireDate": "10/09/26",
+      "type": "Residential Permit",
+      "subType": "Single Family",
+      "workType": "New Construction",
+      "address": "6108 Whispering Glen Dr Winter Garden FL 34787",
+      "parcel": "30-23-27-8145-07-650",
+      "description": "NEW CONSTRUCTION SFR - SILVERLEAF OAKS LOT# 765 WITH IRRIGATION 1 tree is required to be planted on the site prior to the certificate of occupancy being issued. A list of trees on the acceptable stock list is found on Sec. 24-12.",
+      "mapLink": "https://maps.google.com?q=6108+Whispering+Glen+Dr.+Winter+Garden+FL+34787"
+    }
+  },
+  "permit_field": [
+    {
+      "group": "Affordable Housing",
+      "description": "Certified Affordable Housing?",
+      "information": "No"
+    },
+    {
+      "group": "Affordable Housing",
+      "description": "Possesses Certificate from OCHD?",
+      "information": "No"
+    },
+    {
+      "group": "Application Info",
+      "description": "Truss Engineering Deferred for Submittal",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File (Y/N)",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Master File Model Name",
+      "information": ""
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "OC Code Exempt",
+      "information": "No"
+    },
+    {
+      "group": "Building Safety Info",
+      "description": "Inspector",
+      "information": "Brian Dowling"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "E-Submittal?",
+      "information": "Yes"
+    },
+    {
+      "group": "E-Submittals",
+      "description": "Allow Uploads?",
+      "information": "Yes"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Transportation Impact Fee Zone",
+      "information": "4"
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "SCA #",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (SCVRC)",
+      "information": ""
+    },
+    {
+      "group": "Impact Fee/Concurrency",
+      "description": "Vested Rights (TCVRC)",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CEA Status",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA #",
+      "information": ""
+    },
+    {
+      "group": "OCPS",
+      "description": "CMA Status",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Electrical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Plumbing",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Mechanical",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Gas",
+      "information": "No"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Roof",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Irrigation",
+      "information": "Yes"
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Solar",
+      "information": ""
+    },
+    {
+      "group": "Required Sub Permits",
+      "description": "Fire",
+      "information": ""
+    },
+    {
+      "group": "Square Footage",
+      "description": "# Stories",
+      "information": "2"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed SF",
+      "information": "2425"
+    },
+    {
+      "group": "Square Footage",
+      "description": "SF Under Roof Without Wall",
+      "information": "384"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Total Bldg SF",
+      "information": "2809"
+    },
+    {
+      "group": "Square Footage",
+      "description": "Enclosed Conditioned SF",
+      "information": "1913"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Is this structure 120 sq./ft or less?",
+      "information": "No"
+    },
+    {
+      "group": "Zoning Info",
+      "description": "Trees",
+      "information": "1"
+    }
+  ],
+  "sub_permits": [
+    {
+      "permitNumber": "P25011584",
+      "appDate": "12/01/25",
+      "issueDate": "12/01/25",
+      "status": "Complete",
+      "folderId": "3411738"
+    },
+    {
+      "permitNumber": "E25015838",
+      "appDate": "12/01/25",
+      "issueDate": "12/01/25",
+      "status": "Complete",
+      "folderId": "3411670"
+    },
+    {
+      "permitNumber": "T25014917",
+      "appDate": "12/11/25",
+      "issueDate": "12/11/25",
+      "status": "Complete",
+      "folderId": "3415450"
+    },
+    {
+      "permitNumber": "H25012760",
+      "appDate": "12/23/25",
+      "issueDate": "12/23/25",
+      "status": "Complete",
+      "folderId": "3419164"
+    },
+    {
+      "permitNumber": "E25016982",
+      "appDate": "12/30/25",
+      "issueDate": "12/30/25",
+      "status": "Complete",
+      "folderId": "3420326"
+    },
+    {
+      "permitNumber": "P26001075",
+      "appDate": "02/06/26",
+      "issueDate": "02/09/26",
+      "status": "Complete",
+      "folderId": "3432420"
+    }
+  ],
+  "people_details": [
+    {
+      "type": "Applicant",
+      "name": "Pulte Home Company LLC (Jonathan Pierce)",
+      "address": "4901 Vineland Rd Suite 500 Orlando Florida 32811"
+    },
+    {
+      "type": "Contractor",
+      "name": "Pulte Home Company LLC (Jonathan Pierce)",
+      "address": "4901 Vineland Rd Suite 500 Orlando Florida 32811"
+    }
+  ],
+  "associated_properties": [
+    {
+      "address": "6108 Whispering Glen Dr Winter Garden FL 34787",
+      "parcel": "30-23-27-8145-07-650"
+    }
+  ],
+  "processes_and_reports": [
+    {
+      "group": "Admin Processes",
+      "processKey": "40139231",
+      "processName": "RES Plans Coordination",
+      "status": "Complete",
+      "scheduleDt": "10/20/25",
+      "startDt": "10/20/25",
+      "endDt": "11/10/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40156986",
+      "processName": "Architectural/Lighting Review",
+      "status": "Approved",
+      "scheduleDt": "11/10/25",
+      "startDt": "11/18/25",
+      "endDt": "11/18/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40156980",
+      "processName": "Zoning Review",
+      "status": "Approved",
+      "scheduleDt": "11/10/25",
+      "startDt": "11/18/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40156981",
+      "processName": "Building Review (RES)",
+      "status": "Approved",
+      "scheduleDt": "11/10/25",
+      "startDt": "11/18/25",
+      "endDt": "11/12/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40156985",
+      "processName": "Dev Eng Review",
+      "status": "Approved",
+      "scheduleDt": "10/22/25",
+      "startDt": "11/05/25",
+      "endDt": "11/03/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40156982",
+      "processName": "Stormwater Review",
+      "status": "Approved",
+      "scheduleDt": "10/22/25",
+      "startDt": "11/05/25",
+      "endDt": "11/03/25"
+    },
+    {
+      "group": "Review",
+      "processKey": "40156984",
+      "processName": "Concurrency Review",
+      "status": "Approved",
+      "scheduleDt": "10/22/25",
+      "startDt": "11/05/25",
+      "endDt": "10/22/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40360111",
+      "processName": "Final Issuance Review (RES)",
+      "status": "Complete",
+      "scheduleDt": "12/01/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40315492",
+      "processName": "Final Plan Preparation (RES)",
+      "status": "Complete",
+      "scheduleDt": "11/27/25",
+      "startDt": "",
+      "endDt": "12/01/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40244729",
+      "processName": "Impact Fee Assessment",
+      "status": "Approved",
+      "scheduleDt": "11/05/25",
+      "startDt": "11/05/25",
+      "endDt": "11/27/25"
+    },
+    {
+      "group": "Issuance",
+      "processKey": "40156983",
+      "processName": "Utilities Customer Service",
+      "status": "Complete",
+      "scheduleDt": "10/22/25",
+      "startDt": "11/05/25",
+      "endDt": "11/17/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "41084251",
+      "processName": "290 Final",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40796657",
+      "processName": "191 Fire Rated Assembly",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/23/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40731515",
+      "processName": "210 Insulation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/11/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40707701",
+      "processName": "190 Framing",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "02/11/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40625691",
+      "processName": "188 Window Installation",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/21/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40585805",
+      "processName": "189 Exterior Frame",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "01/14/26"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40523989",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/30/25"
+    },
+    {
+      "group": "Inspection History",
+      "processKey": "40459201",
+      "processName": "120 Slab",
+      "status": "History",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": "12/17/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41090311",
+      "processName": "290 Final",
+      "status": "Passed",
+      "scheduleDt": "04/09/26",
+      "startDt": "04/09/26",
+      "endDt": "04/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "41078840",
+      "processName": "290 Final",
+      "status": "Failed",
+      "scheduleDt": "04/08/26",
+      "startDt": "04/08/26",
+      "endDt": "04/08/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40803645",
+      "processName": "191 Fire Rated Assembly",
+      "status": "Passed",
+      "scheduleDt": "02/23/26",
+      "startDt": "02/23/26",
+      "endDt": "02/23/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40788935",
+      "processName": "191 Fire Rated Assembly",
+      "status": "Failed",
+      "scheduleDt": "02/19/26",
+      "startDt": "02/19/26",
+      "endDt": "02/19/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40761566",
+      "processName": "211 Lath",
+      "status": "Passed",
+      "scheduleDt": "02/13/26",
+      "startDt": "02/13/26",
+      "endDt": "02/13/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40739742",
+      "processName": "210 Insulation",
+      "status": "Passed",
+      "scheduleDt": "02/11/26",
+      "startDt": "02/11/26",
+      "endDt": "02/11/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40739735",
+      "processName": "190 Framing",
+      "status": "Passed",
+      "scheduleDt": "02/11/26",
+      "startDt": "02/11/26",
+      "endDt": "02/11/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40728463",
+      "processName": "210 Insulation",
+      "status": "Failed",
+      "scheduleDt": "02/09/26",
+      "startDt": "02/09/26",
+      "endDt": "02/09/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40698781",
+      "processName": "190 Framing",
+      "status": "Partial",
+      "scheduleDt": "02/04/26",
+      "startDt": "02/04/26",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40698782",
+      "processName": "190 Framing",
+      "status": "Failed",
+      "scheduleDt": "02/04/26",
+      "startDt": "02/04/26",
+      "endDt": "02/04/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40624367",
+      "processName": "188 Window Installation",
+      "status": "Passed",
+      "scheduleDt": "01/21/26",
+      "startDt": "01/21/26",
+      "endDt": "01/21/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40589941",
+      "processName": "189 Exterior Frame",
+      "status": "Passed",
+      "scheduleDt": "01/14/26",
+      "startDt": "01/14/26",
+      "endDt": "01/14/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40582882",
+      "processName": "189 Exterior Frame",
+      "status": "Failed",
+      "scheduleDt": "01/13/26",
+      "startDt": "01/13/26",
+      "endDt": "01/13/26"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40517420",
+      "processName": "150 Lintel/Tie-Beam",
+      "status": "Passed",
+      "scheduleDt": "12/30/25",
+      "startDt": "12/30/25",
+      "endDt": "12/30/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40464062",
+      "processName": "120 Slab",
+      "status": "Passed",
+      "scheduleDt": "12/17/25",
+      "startDt": "12/17/25",
+      "endDt": "12/17/25"
+    },
+    {
+      "group": "Scheduled Inspections",
+      "processKey": "40452396",
+      "processName": "120 Slab",
+      "status": "Failed",
+      "scheduleDt": "12/15/25",
+      "startDt": "12/15/25",
+      "endDt": "12/15/25"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40375801",
+      "processName": "TCO Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40375802",
+      "processName": "Pre Power Intake",
+      "status": "Open",
+      "scheduleDt": "",
+      "startDt": "",
+      "endDt": ""
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "41092456",
+      "processName": "Cert. of Occupancy",
+      "status": "Complete",
+      "scheduleDt": "04/09/26",
+      "startDt": "",
+      "endDt": "04/10/26"
+    },
+    {
+      "group": "Finalize Permit",
+      "processKey": "40376495",
+      "processName": "Final Power Call",
+      "status": "Complete",
+      "scheduleDt": "03/30/26",
+      "startDt": "",
+      "endDt": "04/09/26"
+    }
+  ],
+  "permitReportAttachmentId": 15459193,
+  "inspections": [
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "290 Final",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "04/09/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Brian Dowling",
+          "comment": "2842625-",
+          "result": "Failed"
+        },
+        {
+          "date": "04/09/26",
+          "user": "Brian Dowling",
+          "comment": "2844183-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "191 Fire Rated Assembly",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Bradley Deverall",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/23/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/19/26",
+          "user": "Joseph Jolley",
+          "comment": "2807876-",
+          "result": "Failed"
+        },
+        {
+          "date": "02/23/26",
+          "user": "Bradley Deverall",
+          "comment": "2809834-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "210 Insulation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/11/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/09/26",
+          "user": "Joseph Jolley",
+          "comment": "2800619-",
+          "result": "Failed"
+        },
+        {
+          "date": "02/11/26",
+          "user": "Brian Dowling",
+          "comment": "2801993-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "190 Framing",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "02/11/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Bradley Deverall",
+          "comment": "2797128-",
+          "result": "Fail/No Fee"
+        },
+        {
+          "date": "02/04/26",
+          "user": "Bradley Deverall",
+          "comment": "2797127-see fail this date",
+          "result": "Partial"
+        },
+        {
+          "date": "02/11/26",
+          "user": "Brian Dowling",
+          "comment": "2801992-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/21/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/21/26",
+          "user": "Brian Dowling",
+          "comment": "2788094-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "01/14/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/13/26",
+          "user": "Bradley Deverall",
+          "comment": "2782832-",
+          "result": "Failed"
+        },
+        {
+          "date": "01/14/26",
+          "user": "Brian Dowling",
+          "comment": "2783577-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Robert Farmer",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/30/25",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/30/25",
+          "user": "Robert Farmer",
+          "comment": "2774870-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927",
+      "details": {
+        "type": "120 Slab",
+        "status": "History",
+        "method": "In-Person",
+        "user": "Brian Dowling",
+        "scheduledDate": "",
+        "scheduledEndDate": "",
+        "startDate": "",
+        "endDate": "12/17/25",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/15/25",
+          "user": "Ricci Todd",
+          "comment": "2766841-",
+          "result": "Failed"
+        },
+        {
+          "date": "12/17/25",
+          "user": "Brian Dowling",
+          "comment": "2768143-",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2844183",
+      "details": {
+        "type": "290 Final",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/09/26",
+        "scheduledEndDate": "",
+        "startDate": "04/09/26",
+        "endDate": "04/09/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/09/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2842625",
+      "details": {
+        "type": "290 Final",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "04/08/26",
+        "scheduledEndDate": "",
+        "startDate": "04/08/26",
+        "endDate": "04/08/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "04/08/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2809834",
+      "details": {
+        "type": "191 Fire Rated Assembly",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/23/26",
+        "scheduledEndDate": "",
+        "startDate": "02/23/26",
+        "endDate": "02/23/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/23/26",
+          "user": "Bradley Deverall",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2807876",
+      "details": {
+        "type": "191 Fire Rated Assembly",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/19/26",
+        "scheduledEndDate": "",
+        "startDate": "02/19/26",
+        "endDate": "02/19/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/19/26",
+          "user": "Joseph Jolley",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2804793",
+      "details": {
+        "type": "211 Lath",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/13/26",
+        "scheduledEndDate": "",
+        "startDate": "02/13/26",
+        "endDate": "02/13/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/13/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2801993",
+      "details": {
+        "type": "210 Insulation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/11/26",
+        "scheduledEndDate": "",
+        "startDate": "02/11/26",
+        "endDate": "02/11/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/11/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2801992",
+      "details": {
+        "type": "190 Framing",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/11/26",
+        "scheduledEndDate": "",
+        "startDate": "02/11/26",
+        "endDate": "02/11/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/11/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2800619",
+      "details": {
+        "type": "210 Insulation",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/09/26",
+        "scheduledEndDate": "",
+        "startDate": "02/09/26",
+        "endDate": "02/09/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/09/26",
+          "user": "Joseph Jolley",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2797127",
+      "details": {
+        "type": "190 Framing",
+        "status": "Partial",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/04/26",
+        "scheduledEndDate": "",
+        "startDate": "02/04/26",
+        "endDate": "02/04/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Bradley Deverall",
+          "comment": "see fail this date",
+          "result": "Partial"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2797128",
+      "details": {
+        "type": "190 Framing",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "02/04/26",
+        "scheduledEndDate": "",
+        "startDate": "02/04/26",
+        "endDate": "02/04/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "02/04/26",
+          "user": "Bradley Deverall",
+          "comment": "",
+          "result": "Fail/No Fee"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2788094",
+      "details": {
+        "type": "188 Window Installation",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/21/26",
+        "scheduledEndDate": "",
+        "startDate": "01/21/26",
+        "endDate": "01/21/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/21/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2783577",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/14/26",
+        "scheduledEndDate": "",
+        "startDate": "01/14/26",
+        "endDate": "01/14/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/14/26",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2782832",
+      "details": {
+        "type": "189 Exterior Frame",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "01/13/26",
+        "scheduledEndDate": "",
+        "startDate": "01/13/26",
+        "endDate": "01/13/26",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "01/13/26",
+          "user": "Bradley Deverall",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2774870",
+      "details": {
+        "type": "150 Lintel/Tie-Beam",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/30/25",
+        "scheduledEndDate": "",
+        "startDate": "12/30/25",
+        "endDate": "12/30/25",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/30/25",
+          "user": "Robert Farmer",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2768143",
+      "details": {
+        "type": "120 Slab",
+        "status": "Passed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/17/25",
+        "scheduledEndDate": "",
+        "startDate": "12/17/25",
+        "endDate": "12/17/25",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/17/25",
+          "user": "Brian Dowling",
+          "comment": "",
+          "result": "Passed"
+        }
+      ]
+    },
+    {
+      "permitRef": "B25020927 | Reference #: 2766841",
+      "details": {
+        "type": "120 Slab",
+        "status": "Failed",
+        "method": "In-Person",
+        "user": "",
+        "scheduledDate": "12/15/25",
+        "scheduledEndDate": "",
+        "startDate": "12/15/25",
+        "endDate": "12/15/25",
+        "address": "6108 Whispering Glen DR, Winter Garden, FL 34787"
+      },
+      "activity": [
+        {
+          "date": "12/15/25",
+          "user": "Ricci Todd",
+          "comment": "",
+          "result": "Failed"
+        }
+      ]
+    }
+  ],
+  "permit_report_pdf": {
+    "permitNumber": "B25020927",
+    "dateIssued": "December 01, 2025",
+    "parcelId": "30-23-27-8145-07-650",
+    "tenant": "NONE",
+    "contractor": "Jonathan Pierce",
+    "contractorLicense": "CGC1516628",
+    "valueOfWork": "$250,201.00",
+    "squareFootage": "2809",
+    "zoningDistrict": "R-3",
+    "typeOfConstruction": "Type VB",
+    "buildingRiskCategory": "II",
+    "windSpeed": "139",
+    "natureOfWork": "addition",
+    "projectAddress": "6108 Whispering Glen Dr., Winter Garden, FL 34787",
+    "contractorAddress": "4901 Vineland Rd., Suite 500, Orlando, FL 32811",
+    "issuedBy": "Danielle Curry",
+    "owner": "PULTE HOME COMPANY LLC",
+    "specialConsiderations": null,
+    "useAndOccupancyType": "R-3 (Residential - 1 or 2 Family)",
+    "buildingCode": "8th Ed. (2023) Florida Building Code, Residential"
+  }
+}
