@@ -15,8 +15,8 @@ async function extractTextFromLocalPDF(dataBuffer) {
     // 4. Extract the text
     const result = await parser.getText();
 
-    console.log("--- Extracted Text ---");
-    console.log(result.text);
+    // console.log("--- Extracted Text ---");
+    // console.log(result.text);
     // fs.writeFileSync("pdf.txt", result.text);
 
     return result.text;
