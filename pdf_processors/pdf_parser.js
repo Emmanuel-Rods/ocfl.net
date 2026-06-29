@@ -21,7 +21,7 @@ async function extractTextFromLocalPDF(dataBuffer) {
 
     return result.text;
   } catch (error) {
-    console.error("Error extracting text:", error);
+    console.error("Error extracting text from PDF");
   }
 }
 
