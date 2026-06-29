@@ -1,50 +1,48 @@
 const { permitsFrom } = require("./main/permit.js");
-const { getPermitDetails } = require("./main/get_individual_permits.js");
-const { inspections } = require("./main/inspection.js");
-const { permitPDF } = require("./main/permit_pdf.js");
 const { filterPermits } = require("./utils/filter_permits.js");
 const fs = require("fs").promises;
-const fsSync = require("fs");
+const { cleanFolder } = require("./utils/cleaner.js");
+
+//
+const {
+  processSinglePermit,
+} = require("./main/main_processing_permits_interface.js");
+const { uploadFolder } = require("./db/upload.js");
 
 async function main() {
   await fs.mkdir("permits", { recursive: true });
   console.log("fetching permits...");
-  const data = await permitsFrom(-200); // 200 days ago
-  fsSync.writeFileSync("test.json", JSON.stringify(data, null, 2));
-  // await fs.writeFile(
-  //   "daily_permits.json",
-  //   JSON.stringify(data.permits, null, 2),
-  // );
-
-  // const data = JSON.parse(fsSync.readFileSync("test.json", "utf-8"));
-
+  const data = await permitsFrom(-5); // 200 days ago
+  fs.writeFile("test.json", JSON.stringify(data, null, 2));
   // Filter the permits
   const filtered = filterPermits(data.permits);
 
-  //fsSync.writeFileSync("filtered.json", JSON.stringify(data, null, 2));
+  const CONCURRENCY_LIMIT = 7;
+  const activePromises = new Set(); // Tracks currently running tasks
 
+  // Iterate through the filtered permits to manage concurrency
   for (const permit of filtered) {
-    const permitData = await getPermitDetails(permit, data.permitListHTML);
+    // Start the task for the current permit and add its promise to our tracking Set
+    const promise = processSinglePermit(permit, data);
+    activePromises.add(promise);
 
-    const inspectionData = await inspections(
-      permitData.permitData,
-      permitData.permitHTML,
-    );
+    // Once this specific promise finishes, remove it from the Set
+    promise.finally(() => activePromises.delete(promise));
 
-    const permit_report_pdf = await permitPDF(
-      permitData.permitData.permitReportAttachmentId,
-    );
-
-    const result = {
-      ...permitData.permitData,
-      inspections: inspectionData,
-      permit_report_pdf,
-    };
-    await fs.writeFile(
-      `permits/${permit["PERMIT#"]}.json`,
-      JSON.stringify(result, null, 2),
-    );
+    // If we hit the concurrency limit of 5, wait for AT LEAST ONE to finish
+    // before starting the next loop iteration
+    if (activePromises.size >= CONCURRENCY_LIMIT) {
+      await Promise.race(activePromises);
+    }
   }
+
+  // After the loop finishes starting all tasks, wait for the last batch (up to 5) to finish
+  await Promise.all(activePromises);
+  console.log("All permits processed!");
+
+  await cleanFolder("permits", "cleaned_permits");
+  await uploadFolder("cleaned_permits");
 }
 
-main();
+// Call the main function to start the process
+main().catch(console.error);
