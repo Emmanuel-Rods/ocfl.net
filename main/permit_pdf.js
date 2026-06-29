@@ -16,7 +16,7 @@ async function permitPDF(rsn) {
     const PDFJSON = parsePermitData(pdftext);
     return PDFJSON;
   } catch (error) {
-    console.log(error);
+    console.log("Error in Fetching PDF");
   }
 }
 
