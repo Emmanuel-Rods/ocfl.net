@@ -8,6 +8,7 @@ const {
   processSinglePermit,
 } = require("./main/main_processing_permits_interface.js");
 const { uploadFolder } = require("./db/upload.js");
+const { deleteFolders } = require("./utils/deleteFolders.js");
 
 async function main() {
   await fs.mkdir("permits", { recursive: true });
@@ -42,6 +43,7 @@ async function main() {
 
   await cleanFolder("permits", "cleaned_permits");
   await uploadFolder("cleaned_permits");
+  await deleteFolders(["permits", "cleaned_permits"]);
 }
 
 // Call the main function to start the process
