@@ -18,7 +18,6 @@ async function inspections(permit, html) {
   for (const inspection of filteredInspections) {
     const inspectionHTML = await getInspection(payload, inspection.processKey);
     const parsedInspection = getInspectionDetails(inspectionHTML);
-    console.log(parsedInspection);
     inspectionArray.push(parsedInspection);
   }
 
