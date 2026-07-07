@@ -23,7 +23,7 @@ async function getDataByStatus(status) {
 
       const { data, error } = await supabase
         .from(table)
-        .select("permit_id, data_hash")
+        .select("permit_number, data_hash")
         .eq("status", status) //status here
         .range(from, to);
 
