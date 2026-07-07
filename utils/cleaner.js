@@ -85,4 +85,32 @@ async function cleanFolder(inputFolder, outputFolder) {
   }
 }
 
-module.exports = { cleanFolder };
+function cleanPermitData(rawData) {
+  const cleanedData = structuredClone(UNIVERSAL_SCHEMA);
+
+  // --- 2. Overwrite the nulls with real data (if it exists) ---
+  if (rawData.permit && rawData.permit.permitInfo) {
+    cleanedData.permitInfo = rawData.permit.permitInfo;
+  }
+
+  cleanedData.people_details = rawData.people_details ?? null;
+  cleanedData.associated_properties = rawData.associated_properties ?? null;
+  cleanedData.permit_report_pdf = rawData.permit_report_pdf ?? null;
+
+  // Orange County Smart Filter for processes
+  const processesSource = rawData.processes_and_reports;
+  if (Array.isArray(processesSource) && processesSource.length > 0) {
+    const allowedGroups = ["Inspection History", "Scheduled Inspections"];
+    const filteredProcesses = processesSource.filter((p) =>
+      allowedGroups.includes(p.group),
+    );
+
+    if (filteredProcesses.length > 0) {
+      cleanedData.processes_and_reports = filteredProcesses;
+    }
+  }
+
+  return cleanedData;
+}
+
+module.exports = { cleanFolder, cleanPermitData };
