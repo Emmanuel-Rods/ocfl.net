@@ -1,3 +1,5 @@
 node_modules/
 permits/
 cleaned_permits/
+archive/
+.env
