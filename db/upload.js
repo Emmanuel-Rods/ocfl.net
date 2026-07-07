@@ -2,10 +2,13 @@ const fs = require("fs");
 const path = require("path");
 const { createClient } = require("@supabase/supabase-js");
 
+// Load environment variables from the .env file
+require("dotenv").config();
+
 // --- Configuration ---
-const SUPABASE_URL = "https://dddsaythhlflyzuxcdha.supabase.co";
-const SUPABASE_KEY = "";
-const TABLE_NAME = "scraper_test";
+const SUPABASE_URL = process.env.SUPABASE_URL;
+const SUPABASE_KEY = process.env.SUPABASE_KEY;
+const TABLE_NAME = process.env.TABLE;
 
 const ERROR_LOG_FILE = "./upload_errors_scraper_04.log";
 
@@ -50,8 +53,9 @@ async function uploadFolder(JSON_FOLDER) {
 
     try {
       const fileContent = fs.readFileSync(filePath, "utf8");
-      const permitData = JSON.parse(fileContent);
-
+      const rawJSON = JSON.parse(fileContent);
+      const permitData = rawJSON.permit_data;
+      const permit_hash = rawJSON.permit_hash;
       // Extracting specifically from Orange County's structure
       const permitInfo = permitData.permitInfo || {};
       const permitNumber = permitInfo.permitNumber;
@@ -69,6 +73,7 @@ async function uploadFolder(JSON_FOLDER) {
         permit_number: permitNumber,
         status: status,
         permit_data: permitData,
+        data_hash: permit_hash,
       });
     } catch (err) {
       const msg = `Parse Error on ${file}: ${err.message}`;
