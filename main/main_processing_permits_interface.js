@@ -2,7 +2,8 @@
 const { getPermitDetails } = require("./get_individual_permits.js");
 const { inspections } = require("./inspection.js");
 const { permitPDF } = require("./permit_pdf.js");
-// const { filterPermits } = require("../utils/filter_permits.js");
+const { cleanPermitData } = require("../utils/cleaner.js");
+const { hash } = require("../utils/hashes/create.hash.js");
 const fs = require("fs").promises;
 
 // Define the function that processes a single permit
@@ -36,9 +37,15 @@ const processSinglePermit = async (permit, data) => {
       inspections: inspectionData,
       permit_report_pdf,
     };
+
+    //cleaning file here
+    const cleanedResult = cleanPermitData(result);
+    const permit_hash = hash(cleanedResult); //hashing the cleaned result
+    const final = { permit_data: cleanedResult, permit_hash: permit_hash };
+
     await fs.writeFile(
       `permits/${permit["PERMIT#"]}.json`,
-      JSON.stringify(result, null, 2),
+      JSON.stringify(final, null, 2),
     );
     console.log(`✅ Successfully saved: ${permit["PERMIT#"]}`);
   } catch (error) {
