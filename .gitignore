@@ -3,3 +3,5 @@ permits/
 cleaned_permits/
 archive/
 .env
+daily_permits.json
+test.json
