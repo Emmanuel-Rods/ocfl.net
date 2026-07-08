@@ -1,44 +1,27 @@
-/**
- * comparePermitHashes.js
- *
- * Compares permit data hashes from a folder of permit JSON files against
- * a known "index" JSON array (permit_id / permit_number / data_hash).
- *
- * - If a permit's hash matches the index -> nothing changed, just logged.
- * - If a permit's hash does NOT match (or the permit isn't in the index at
- *   all, i.e. it's new) -> the full permit JSON is copied into the output
- *   folder so you know which ones need attention.
- *
- * A summary log file is also written into the output folder.
- *
- * Usage:
- *   node comparePermitHashes.js <indexFilePath> <inputFolderPath> <outputFolderPath>
- *
- * Or import the function directly:
- *   const { comparePermitHashes } = require('./comparePermitHashes');
- *   comparePermitHashes(indexPath, inputFolder, outputFolder);
- */
-
 const fs = require("fs");
 const path = require("path");
 
 /**
- * Pulls the permit id and hash out of a permit file's parsed JSON.
- * Adjust here if your permit file shape ever changes.
+ * Pulls the permit number and hash out of a permit file's parsed JSON.
+ *
+ * Adjust the paths below to match this system's actual file shape.
+ * As written, it tries a few common locations so it works whether the
+ * per-permit file is flat ({ permit_number, data_hash, ... }) or nested
+ * under a "permit_data.permit" object like the other system.
  */
 function extractPermitInfo(parsed, filename) {
-  const permit = parsed?.permit_data?.permit;
-  const permitId = permit?.PermitId;
-  const permitNumber = permit?.PermitNumber;
+  const permit = parsed?.permit_data?.permitInfo;
+
+  const permitNumber = permit.permitNumber;
   const hash = parsed?.permit_hash;
 
-  if (!permitId || !hash) {
+  if (!permitNumber || !hash) {
     throw new Error(
-      `File "${filename}" is missing permit_data.permit.PermitId or permit_hash`,
+      `File "${filename}" is missing permit_number or data_hash/permit_hash`,
     );
   }
 
-  return { permitId, permitNumber, hash };
+  return { permitNumber, hash };
 }
 
 function loadIndex(indexFilePath) {
@@ -51,9 +34,8 @@ function loadIndex(indexFilePath) {
 
   const map = new Map();
   for (const entry of arr) {
-    if (!entry.permit_id) continue;
-    map.set(entry.permit_id, {
-      permit_number: entry.permit_number,
+    if (!entry.permit_number) continue;
+    map.set(entry.permit_number, {
       data_hash: entry.data_hash,
     });
   }
@@ -101,13 +83,12 @@ function comparePermitHashes(indexFilePath, inputFolderPath, outputFolderPath) {
       continue;
     }
 
-    const indexEntry = indexMap.get(info.permitId);
+    const indexEntry = indexMap.get(info.permitNumber);
 
     if (!indexEntry) {
       // Not in the index at all -> treat as new, save it.
       results.newPermits.push({
         filename,
-        permitId: info.permitId,
         permitNumber: info.permitNumber,
       });
       copyPermitToOutput(filePath, filename, outputFolderPath);
@@ -118,14 +99,12 @@ function comparePermitHashes(indexFilePath, inputFolderPath, outputFolderPath) {
       // Match -> nothing to do.
       results.identical.push({
         filename,
-        permitId: info.permitId,
         permitNumber: info.permitNumber,
       });
     } else {
       // Mismatch -> hash changed, save full permit to output.
       results.changed.push({
         filename,
-        permitId: info.permitId,
         permitNumber: info.permitNumber,
         oldHash: indexEntry.data_hash,
         newHash: info.hash,
@@ -154,14 +133,14 @@ function writeLog(outputFolderPath, results) {
 
   lines.push(`IDENTICAL (${results.identical.length}) - no action taken:`);
   for (const r of results.identical) {
-    lines.push(`  - ${r.permitNumber || r.permitId} (${r.filename})`);
+    lines.push(`  - ${r.permitNumber} (${r.filename})`);
   }
   lines.push("");
 
   lines.push(`CHANGED (${results.changed.length}) - saved to output folder:`);
   for (const r of results.changed) {
     lines.push(
-      `  - ${r.permitNumber || r.permitId} (${r.filename}) : ${r.oldHash} -> ${r.newHash}`,
+      `  - ${r.permitNumber} (${r.filename}) : ${r.oldHash} -> ${r.newHash}`,
     );
   }
   lines.push("");
@@ -170,7 +149,7 @@ function writeLog(outputFolderPath, results) {
     `NEW (${results.newPermits.length}) - not in index, saved to output folder:`,
   );
   for (const r of results.newPermits) {
-    lines.push(`  - ${r.permitNumber || r.permitId} (${r.filename})`);
+    lines.push(`  - ${r.permitNumber} (${r.filename})`);
   }
   lines.push("");
 
