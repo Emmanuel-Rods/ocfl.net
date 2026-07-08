@@ -5,3 +5,4 @@ archive/
 .env
 daily_permits.json
 test.json
+DIFF_FOLDER
