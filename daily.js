@@ -1,7 +1,6 @@
 const { permitsFrom } = require("./main/permit.js");
 const { filterPermits } = require("./utils/filter_permits.js");
 const fs = require("fs").promises;
-const { cleanFolder } = require("./utils/cleaner.js");
 
 //
 const {
@@ -13,12 +12,12 @@ const { deleteFolders } = require("./utils/deleteFolders.js");
 async function main() {
   await fs.mkdir("permits", { recursive: true });
   console.log("fetching permits...");
-  const data = await permitsFrom(-5); // 200 days ago
-  fs.writeFile("test.json", JSON.stringify(data, null, 2));
+  const data = await permitsFrom(-29); // 200 days ago
+
   // Filter the permits
   const filtered = filterPermits(data.permits);
 
-  const CONCURRENCY_LIMIT = 7;
+  const CONCURRENCY_LIMIT = 5;
   const activePromises = new Set(); // Tracks currently running tasks
 
   // Iterate through the filtered permits to manage concurrency
@@ -41,9 +40,8 @@ async function main() {
   await Promise.all(activePromises);
   console.log("All permits processed!");
 
-  await cleanFolder("permits", "cleaned_permits");
-  await uploadFolder("cleaned_permits");
-  await deleteFolders(["permits", "cleaned_permits"]);
+  await uploadFolder("permits");
+  await deleteFolders(["permits"]);
 }
 
 // Call the main function to start the process
