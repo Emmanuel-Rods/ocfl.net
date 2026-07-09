@@ -9,10 +9,12 @@ const {
 const { uploadFolder } = require("./db/upload.js");
 const { deleteFolders } = require("./utils/deleteFolders.js");
 
+const dateOffset = -1; // -1 = yesterday
+
 async function main() {
   await fs.mkdir("permits", { recursive: true });
   console.log("fetching permits...");
-  const data = await permitsFrom(-29); // 200 days ago
+  const data = await permitsFrom(dateOffset); // 200 days ago
 
   // Filter the permits
   const filtered = filterPermits(data.permits);
