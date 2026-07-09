@@ -11,9 +11,15 @@ const {
   parsePermitResults,
 } = require("../permit_processors/permit_list_parser.js");
 
-async function searchPermitNumber(permitNumber) {
-  const html = await getPermitPage();
-  const basePayload = buildBasicPayload(html);
+async function searchPermitNumber(permitNumber, permitPageHTML) {
+  if (!permitPageHTML) {
+    throw new Error(
+      `Argument permitPageHTML is not passed ,  pass the result of function getPermitPage()
+      This Is due to optimisation purposes , it cuts all update.js API request by 1/3rd`,
+    );
+  }
+  // const html = await getPermitPage();
+  const basePayload = buildBasicPayload(permitPageHTML);
   // other payload
   basePayload[
     "ctl00$ContentPlaceHolder1$ucHeaderAndSearchBP$uc_permitnumber_BP$ReferenceFile"
